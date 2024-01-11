@@ -6,7 +6,7 @@
 |---------------------------------|-----------|
 | Petronius                       | Vergilius |
 | Apuleius                        | Ovidius   |
-| Commidanus. Carmen Apologeticum | Caesar    |
+| Commidanus. [Carmen Apologeticum](https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0096.stoa004.opp-lat2:1-30/) | Caesar    |
 
 ## links
 
