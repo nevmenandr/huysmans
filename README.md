@@ -67,6 +67,7 @@
 * [text](http://abu.cnam.fr/cgi-bin/donner_unformated?arebours1)
 * [russian translation](https://librebook.me/naoborot/vol1/4#page=last)
 * [Early Christian Latin poets from the fourth to the sixth century](https://babel.hathitrust.org/cgi/pt?id=mdp.39015065488309&seq=21)
+* [code](https://github.com/tedunderwood/fiction)
 
 ## research
 
