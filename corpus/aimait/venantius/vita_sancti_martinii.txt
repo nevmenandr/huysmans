@@ -1,0 +1,2311 @@
+PROLOGUS
+1	Domno sancto atque apostolico piissimo in Christo et peculiari patri Gregorio papae, Fortunatus.
+2	Apud pietatis animum, quod opere minus inscribitur, dilectionis intuitu dilatatur. Nam ΕΠΙΧΕΙΡΗΜΑΤΑ, ΛΕΖΙΣ, ΔΙΑΙΡΕΣΙΣ, ΠΑΡΑΙΝΕΣΙΣ, et reliqua oratoribus et dialecticis permittantur, apud quos caeterae artes perplexis florent artibus: ista satagent suis affectare sirmatibus quae soliti sunt adsuere, vel proferre . . . Vos date pietatis et charitatis animo veniam, postposita pro parte metrica periti censura. Quia quidquid in his vel stropha veterum, vel praesentium sophisma plerumque dissertat, totum nobis tu praestabis, quod minus novimus: quod in opere messium, id est in ipsa messe, ut praesens explicare portitor poterit, nec expedire licuit, nec tentare singula.
+3	Quapropter sanctae coronae ac dulcedini vestrae me peculiariter et instanter commendans, et ut pro humili tuo iugiter orare digneris, exspectans suggero. Cum iusseritis autem ut opus illud, Christo praestante, intercessionibus domni Martini, quod de suis virtutibus explicuisti, versibus debeat digeri, id agite ut ipsum mihi relatum iubeatis trans mitti.
+4	Nam pietate Domini concedente, quod de vita eius vir disertus domnus Sulpicius sub uno libello prosa descripsit, et reliquum, quod dialogi more subnectit, primum quidem opus a me duobus libellis et dialogus subsequens aliis duobus libellis complexus est; ita ut brevissime et iuxta modulum paupertatis nostrae in quatuor libellis, totum illud opus versu, inter hoc bimestre spatium, audax magis, quam loquax, nec efficax, cursim et impolite inter frivolas occupationes sulcarim.
+5	Quos libellos domno meo, et pio domno Martino, si ipse commeatum obtinet, in quaternionibus, quos direxistis, ipsi per vos oblaturus coniunctim et confestim transcribendos curabo, illud certe postulans, ut eius a vobis pietas reparata pro nobis humilibus et suis peculiaribus intercedere non desistat. Date, pater dulcis, veniam, quia lituram tantam in messe scribenti pluvia superlapsa suffudit, Ora pro me domne sancte, et mihi dulcis pater.
+
+PRAEFATIO
+
+1	Nauta rudis, tumido cum vult dare vela profundo,
+2	Atque procellosas nescius intrat aquas,
+3	Raucisono latrante salo, cum perstrepit aequor,
+4	Et vaga terrifico murmurat unda freto:
+5	Exsiliens pelagus colles ubi volvit aquosos,
+6	Planaque dorsa maris mobile rupe timet:
+7	Naufragii cumulos capiens per confraga, Pontus,
+8	Qua crepitat rapidus, monte natante, liquor:
+9	Certatim implicitam quatiunt vada caerula cymbam,
+10	Cum liquidi campi pensile transit iter:
+11	Si fera crescat hiems, ut spumis verberet auras,
+12	Et mare caeruleum tollat ad astra caput:
+13	Fluctibus excussus per nubila navita currit,
+14	Intrat et aerias pendula prora vias.
+15	Pars subit una ratis, pars altera vergit arenis,
+16	Nutat et in dubio lubrica libra freto.
+17	Nunc sursum inspicitur pelagi furibunda ruina,
+18	Pontus et iratas desuper armat aquas.
+19	Nunc quoque prosiliens zephiri pelagique repulsu,
+20	Fluctibus eximiis evolat acta ratis.
+21	Afficitur tremulis temerarius arbiter undis,
+22	Et stupet, implicitas quas petat arte vias.
+23	Attonitus, trepidus, hebetans, vagus, anxius, anceps,
+24	Confuso ingenio mox ope nauta caret.
+25	Iamque gubernaclum amittens ratione gerendi,
+26	Pondere victus aquae, nescius arte iacet.
+27	Sic ego de modicis minimus, venerabilis Agnes,
+28	Cum Radegunde sacra, quos colo sorte pia:
+29	Tendere pollicitum quia cogor ad ardua gressum,
+30	Imperiis tantis viribus impar agor.
+31	Fluctuat ingenium, cui non natat unda camoenae
+32	Sensus arenosus non rigat ore lacus.
+33	Nam celsum meritis Martinum ad sidera notum,
+34	Cum sint vota, mihi non valet arca loqui.
+35	Poscendum est vobis, ne naufraga prora laboret,
+36	Flatibus ille suis sed mea vela iuvet.
+37	Credere tunc potero ad portum mea carbasa ferri
+38	Aspirante fide, si sua labra favent.
+39	Ferte precanter opem, et de verbo poscite verba,
+40	Si fons ille rigat, rivulus iste meat.
+41	Vos date quod vobis cum fenore reddat alumnus,
+42	Addam ut thesauris parva talenta suis.
+
+
+LIBER PRIMUS 
+
+1	Altithronus postquam repedavit ad aethera Christus,
+2	Carne triumphali victricia signa reportans,
+3	Inclytus inferni spoliato carcere dives,
+4	Tartarei reprimens feralia iura tyranni,
+5	Et Stygis omnipotens adamantina claustra revellit,
+6	Sede fera populi, longa caligine tecti,
+7	Captivum retrahens portis bipatentibus agmen,
+8	Millibus ereptis, ergo est ut redditus astris,
+9	Et Patris in solio sedit, sua dextera, dexter,
+10	Quae conversatus dedit ad miracula terris,
+11	Multa evangelici reserante volumine libri,
+12	Hebraicus cecinit stylus, Atticus, atque Latinus,
+13	Prosaico digesta situ, commune rotatu.
+14	Primus enim docili distinguens ordine carnem,
+15	Maiestatis opus metri canit arte Iuvencus.
+16	Hinc quoque conspicui radiavit lingua Seduli,
+17	Paucaque perstrinxit florente Orontius ore,
+18	Martyribusque piis sacra haec donaria mittens,
+19	Prudens, prudenter Prudentius immolat actus.
+20	Stemmate, corde, fide pollens Paulinus et arte,
+21	Versibus explicuit Martini dogma magistri.
+22	Sortis apostolicae, quae gesta vocantur, et actus,
+23	Facundo eloquio vates sulcavit Arator.
+24	Quod sacra explicuit serie genealogus olim,
+25	Alcimus egregio digessit acumine praesul.
+26	Ast ego sensus inops, Italae quota portio linguae,
+27	Faece gravis, sermone levis, ratione pigrescens,
+28	Mente hebes, arte carens, usu rudis, ore nec expers,
+29	Parvula grammaticae lambens refluamina guttae,
+30	Rhetoricae exiguum praelibans gurgitis haustum,
+31	Cole ex iuridica, cui vix rubigo recessit.
+32	Quae prius addidici, dediscens, et cui tantum
+33	Artibus ex illis odor est in naribus istis.
+34	Non praetexta mihi rutilat toga, pennula nulla.
+35	Iam mea nuda fames superest de paupere lingua,
+36	Scilicet inter tot sanctorum culmina vatum,
+37	Fulmina doctorum, et gemmantia prata loquentum,
+38	Nullo flore virens ego tendam texere sertum,
+39	Mellis et irrigui haec austera absinthia miscam.
+40	Quod tamen ut facerem, fieri res illa coegit,
+41	Quo minus ipse reus pro crimine redderer amplo
+42	Convenienter enim ratio quia vera poposcit,
+43	Huius pontificis solvi praeconia verbis,
+44	Cuius causa fuit hac me regione venire.
+45	Ergone dignus ero Martini gesta beati,
+46	Pannoniae geniti, qua clara Sabaria vernat,
+47	Attrectare manu, trepida vel pangere lingua?
+48	Non eget ille meis tenebris, quia luce coruscans
+49	Gallica celsa pharus fulgorem extendit ad Indos.
+50	Qui puer in teneris vix pubescentibus annis,
+51	Frigore sub gelido, terras crispante pruina:
+52	Cum undas tristis hiems freno glaciale ligasset,
+53	Et vaga libertas fluviorum inclusa lateret,
+54	Asperiore gelu de se sibi vincula nectens,
+55	Plus aqua frigidior, tunica vestita rigoris:
+56	Occurrenti igitur portae Ambianensis egeno
+57	Qui sibi restiterat chlamydis partitur amictum,
+58	Et fervente fide, membris algentibus, offert.
+59	Frigoris iste capit partem, capit ille teporis,
+60	Inter utrosque inopes partitur fervor et algor,
+61	Et nova mercandi fit nundina; frigus et aestus
+62	Unaque paupertas satis est divisa duobus.
+63	Hac se veste tamen tectum obtulit ipse Creator,
+64	Martinique chlamys texit velamine Christum:
+65	Nulla Augustorum meruit hunc vestis honorem,
+66	Militis alba chlamys plus est quam purpura regis;
+67	Prima haec virtutum fuit arrha, et pignus amoris.
+68	Post fera barbaries peteret cum Gallica claustra,
+69	Ac prope Vangionum premeret loca fervidus hostis,
+70	Militiae sanctus cuncta emolumenta recusat.
+71	Hic cum Caesareas fremuit Iulianus in iras,
+72	Imperat ut clausum teneat custodia iustum;
+73	Ac veniente die primus properaret in agmen.
+74	Quo tamen ante aciem sacer ire fatetur inermis.
+75	Venerat ergo dies belli, pacem expetit hostis,
+76	Atque orante uno cecidit furor omnibus armis;
+77	Innumerasque acies solus sine sanguine vicit.
+78	Hinc loca latronum incedens, ratus ire per Alpes,
+79	Vinctis post tergum manibus, deductus ab uno,
+80	Tempore sub mortis, hostis compendia tractans,
+81	Credit latro Deum, dum praedicat iste, colendum;
+82	Et dare qui voluit mortem, capit ore salutem.
+83	Ducitur ille ferox a relligione ligatus,
+84	Atque suus praedo Martini praeda fit ultro:
+85	Quam bonus ille isti! sed plus pius hic fuit illi.
+86	Servantur simul, ille fide, hic corpore vivens,
+87	Ambo valent, dum nemo cadit, sic vivit uterque.
+88	Hinc loca praeteriens pulcherrima Mediolani.
+89	Florea rura terens, per amoena vireta viator,
+90	Obvius occurrit vetus et temerarius hostis;
+91	Mentitus speciem humanae sub imagine formae,
+92	Falsiloquax, pereunte fide, male doctus in arte,
+93	Quod peteretur iter quaerit: cui cominus ille
+94	Huc properare refert, qua se Deus ire vocaret;
+95	Cui ferus hostis ait: Quocunque accedere tentes,
+96	Tecum pergo nocens, vota in contraria currens.
+97	Voce prophetali sanctus cui protinus infit:
+98	Est meus adiutor Dominus, mala nulla verebor,
+99	Ne timeam timidum, timor est Deus, arma timentum,
+100	Tutus in adversis gradior, rectore superno:
+101	Insidiis via nulla patet sub tegmine divo.
+102	Haec ait, et validi transfixus cuspide verbi
+103	Daemon abest; sic umbra fugit quam Christus obumbrat.
+104	Interea matrem gentili errore resolvens,
+105	Illa istum mundo, hic illam generavit Olympo,
+106	Decrepitamque senem sancto facit amne renasci,
+107	Et meliore sinu generant sua viscera matrem.
+108	Dogmaque, sacrilego quod fuderat Arrius ore,
+109	Tempestate gravi totum populaverat orbem,
+110	Per magis Illyricum male naufraga lingua natabat.
+111	Hinc quoque coeperunt nasci nova praelia iusto,
+112	Fortior ut fieret reparatis belliger armis;
+113	Ad virtutis opus per multa pericula crescens.
+114	Vir pius ergo sagax, fideique fidelis athleta,
+115	Sparsa venena heresis reprimens, dum dimicat hostis,
+116	Suppliciis lacerus, flagris datus, urbe repulsus:
+117	Nam Patris ac Geniti aequalem, vel Flaminis almi
+118	Vim, genus, et specimen, virtutem, lumen, honorem,
+119	Unum velle trium, sua per tormenta, fatetur.
+120	Dulcia membra viri per amara flagella cavantur,
+121	Et Christi iuvenem veterata piacula torquent:
+122	Sed gravior fit poena levis per nomen amantis.
+123	Et quia summus apex fidei, virtutis, honoris,
+124	Hilarius famae radios iaculabat in orbem,
+125	Rite sacerdotis penetralia iura gubernans,
+126	Buccina terribilis, tuba legis, praeco Tonantis,
+127	Pulchrior electro, ter cocto ardentior auro,
+128	Largior Eridano, Rhodano torrentior amplo,
+129	Uberior Nilo, generoso sparsior Histro:
+130	Cordis inundantis docilis ructare fluenta,
+131	Fontibus ingenii sitientia pectora rorans
+132	Mens Evangelii bis bini plena libelli,
+133	Quattuor ore suo manans nova flumina mundo
+134	Ornatum Ecclesiae, pollens diadema coruscum
+135	In membris Christi capitis velut infula fulgens
+136	Pectore belligerans, adamantinus arte topazos
+137	Ad virtutis opus mens inconcussa palaestris,
+138	Gemmifer eloquiis, radiantior ore lapillis:
+139	Doctor apostolicus, vacuans ratione sophistas
+140	Dogmate, luce, fide, informans virtute sequaces
+141	Hostibus hic quoniam gravis insuperabilis esset
+142	Ducitur exsilio, quia longa silentia tendit,
+143	Regis et auxilio petit hic sua praemia miles.
+144	Cuius in abscessu, errori vaga Gallia cedit,
+145	Et regio titubat, tanta se turre movente.
+146	Hoc ubi praepropere Martinus comperit inde,
+147	Constituit cellam sub vertice Mediolani,
+148	Expulit unde virum tum Auxentius, auctor iniquus
+149	Hinc prius exsul adit qua Gallinaria turget
+150	Insula, frugis inops, pascens radicibus herbae,
+151	Ergo venenatum elleborum mox sumpsit ab ore
+152	Incipit inde mori queis vivere credidit escis.
+153	Sed prave virus agens oratio sola fugavit,
+154	Et vivente viro intra se sua mortua mors est.
+155	Rursus ut Hilario redeundi est facta facultas.
+156	Excurrit properus sua per vestigia iustus.
+157	Excipit hic cupidum cupiens, et amator amantem,
+158	Fitque monasterium Pictava cominus urbe.
+159	Iungitur inde sacro catechumenus ore docendus,
+160	Atque absente viro, rapuit grave funus amicum.
+161	En subito Martinus adest, qui defuit absens.
+162	Ecce redit pietas, redit et simul arca salutis.
+163	Ergo ubi conspexit gelidum de febre cadaver,
+164	Flet, gemit, accurrit, dolet, eiulat, uritur, angit,
+165	Conspiciensque fidem, cella omnes iussit abire.
+166	Exclusitque foras foribus, sine teste relictus;
+167	Tunc super algentis corpus prosternitur ardens
+168	Iudicis exactor, revomant ut Tartara functum.
+169	Interea geminis spatio remorante sub horis,
+170	Ecce redit facies, saliunt per membra vapores,
+171	Stat rubor inde genis, oculos pupilla repingit;
+172	Rursus et insertus renovat specularia visus,
+173	Vena tumet rivis animato fonte cruoris.
+174	Paulatim assurgit, fabrica titubante, columna:
+175	Erigiturque iacens pariter domus et suus hospes,
+176	Ipse iterum post se vivens idem auctor et haeres,
+177	Qui redivivus, ait, se iudicis ante tribunal,
+178	Ductum damnandum, Martino orante, reductum.
+179	Lupicini demum celerans dum praeterit agrum,
+180	Comperit, heu! famulum crudeli funere raptum,
+181	Elidendo suum fera per suspendia collum;
+182	Accessitque ubi sic mala pendula praeda iacebat,
+183	Expulit hinc cunctos, solus solita arma requirens,
+184	Incubuit super exanimis pallentia membra,
+185	Et premit arca sacri, ne hunc deprimat arca sepulcri,
+186	Mox tamen ore precem ut viventis misit in aurem,
+187	Mors pede versa retro, praedam fugitiva reliquit,
+188	Evomuitque vorax avida de fauce rapinam:
+189	Protinus exsiliit lento conamine functi,
+190	Iam levior se terra movens, animata calore;
+191	Languida colla levans, oculosque ex morte soporos
+192	Vix reserans, gravido vigilantia lumina visu,
+193	Mortis odore et adhuc remanente in naribus illis:
+194	Sed praestante manu totos simul erigit artus;
+195	Et stetit intrepidis membrorum machina plantis;
+196	Vivificatus enim, gressum meditando rediscens,
+197	Reddidit obsequium vitae pro munere sancto,
+198	Usque ad vestibulumque domi illum ducere tendens
+199	Defunctum eripuit subito qui ex limine mortis,
+200	Pro mercede manens, haec compensatio iusto.
+201	Gloria, Christe, tibi, facis haec qui mira per orbem.
+202	Accidit ut Turonum praesul peteretur ad urbem,
+203	Nec tamen educi posset de limine cellae;
+204	Ruritius quidam, simulata febre iugalis,
+205	Obtinet egressum sancti ad vestigia supplex.
+206	Urbibus ex reliquis nova conciliabula currunt
+207	Laetificata simul sanctam se ferre rapinam.
+208	Ne tamen effugiat, iustum custodia vallat.
+209	Interea paucis tunc obsistentibus, insons
+210	Eligitur, trahitur, sacratur, et arce locatur;
+211	Aemulus unus erat, defensor episcopus, obstans,
+212	Ne Martinus oves pastor curaret alendas.
+213	Nec mora, iudicio Domini lectore canente,
+214	Versiculo Psalmi Defensor sponte notatur.
+215	Ex ore infantum et lactentum perfice laudem,
+216	Nunc defensorem qui sic bene destruis, inquit.
+217	Mox fragor astra petit, clamor vagus atria complet
+218	Et docet ille favor de Defensore reatum,
+219	Addictusque vir est, se iudice, teste propheta.
+220	Inde monasterium sibi condit rupe sub alta,
+221	Vir monachus perstans in pontificatus honore.
+222	Plurima conveniunt ubi sancta examina fratrum.
+223	Ergo aderat proprius locus, et celeberrimus olim
+224	Ampla vetustatis cum tempora transiluissent:
+225	Martyris esse pium spargebat opinio cultum:
+226	Quo sacer exorans tumulo salit umbra sepulcri
+227	Laeva ex parte loquens, meritis res ipsa sinistra
+228	Imperat ut nomen fateatur imago, vel actum,
+229	Latronem se voce refert, pro crimine caesum;
+230	Nil cum martyribus se participare beatis.
+231	His quia palma manet, nam se mala poena teneret
+232	Omnibus auditur, Martino cernitur uni
+233	Ista superstitio tali sub sorte vetatur,
+234	Sic altare simul removetur, larva fugatur.
+235	Post iter arripiens, comitatu relligioso
+236	Exsequiis subito gentilibus obvius exit,
+237	Dum putat inde vehi cultu simulacra profano,
+238	Pingit in adversos signum crucis, illa cucurrit
+239	Ante virum, sua bella gerens, pietatis amica.
+240	Obvia turba riget gressuque extorpuit aegro,
+241	Atque immota gradu, vertigine rapta rotatur,
+242	Additur illud onus, deponunt colla cadaver,
+243	Nec iam ferre valent, et mors in pondere crescit,
+244	Tunc sacer inspiciens opus hoc esse exsequiarum,
+245	Iussit abire procul, digitis crucis arma repingens,
+246	Unde ligavit iter, miseratus et inde resolvit,
+247	Una eademque manu mandata per aera mittens,
+248	Hoc mirum faciens de suspicione sacerdos.
+249	Protinus antiquum cupiens exurere fanum,
+250	Iussit et acclivem propius succidere pinum.
+251	Obvia congreditur cui rustica concio pugnax
+252	Ne succidatur res nata et debita flammis;
+253	Proinde paciscuntur hac lege excidere pinum,
+254	Si Martinus eam valeat retinere ruentem,
+255	Annuit hoc populus, hoc spondet sponte sacerdos.
+256	Mollia subduntur rigido sub stipite membra,
+257	Et suspectatur pini peritura ruina.
+258	Interea rapidis sonat icta bipennibus arbor,
+259	Atque subincrepitans, casura, cacumine nutat.
+260	Paulatim inclinans iam victa secure ruebat,
+261	Turbati monachi spectant extrema magistri,
+262	Credentes ramis transfigere viscera iusti.
+263	Vir tamen intrepidus perstat, pinoque cadenti
+264	Obtulit arma crucis, cumulans sua bella triumphis.
+265	Extimuit fugitiva virum repedabilis arbor,
+266	Et ruitura procul suspendit in aera lapsum,
+267	Excutiens, retro versa, comas, sine more caducum
+268	Continuit saltum sese per inania librans.
+269	Contra naturam succisa, et curva repugnans,
+270	Mox petit illud iter qua non sua pondera torquent.
+271	Hinc ad ruriculas vertigo infesta rotatur,
+272	In montem exsiliens vindex ut puniat hostes,
+273	Resque parata neci fuit ultro facta saluti.
+274	Fit fragor in partes, monachi per gaudia deflent,
+275	Gentiles stupidi nova per miracula pallent,
+276	Iudicio ligni est hominum mollita voluntas.
+277	Expetit arma crucis conversa, errore relicto,
+278	Et timor hic pini Martinum fecit amari,
+279	Maiorem generans fructum, cum decidit arbor.
+280	Hinc iubet alterius succendere culmina fani,
+281	Vicinamque domum cum flammea lingua voraret,
+282	Viribus ardor agens, totis laxatus habenis,
+283	Obvius ipse volat, qua tunc globus igneus ibat,
+284	Scandens tecta domus; hic verba precantia mittit,
+285	Mox tota in ventos revoluta incendia fervent,
+286	Et contra Boream Vulcanius ardor anhelat.
+287	Seditione movent elementa domestica rixas,
+288	Adversis Zephyris videas pugnare favillas,
+289	Hinc furor australis premit, hinc velocibus alis
+290	Flamma volans borinas mordebat in aera pennas,
+291	Obluctata diu, tandemque evicta per auras,
+292	Quas armare solent, fugiebant flamina flammas,
+293	Conditione nova satis haec res mira per orbem.
+294	Flabra timent ignem, timet ignis ligna vorare,
+295	Atque avidae flammae sua nutrimenta pavescunt;
+296	Paulatimque foci se languida lingua resorbet,
+297	Urere qui solet, a se ipso consumitur ignis:
+298	Martinique fides sine nubibus intulit imbres.
+299	Rursus ut hinc aliud cuperet subvertere templum,
+300	Rustica turba vetat divelli fana profana:
+301	Unde repulsus adit loca proxima, sed biduano
+302	Contectus cinere, et setis ieiunia ducens,
+303	Numinis auxilium ad templa imminuenda precatur.
+304	Militiae angelicae coram duo protinus adsunt,
+305	Siderei proceres, hastas et scuta tenentes,
+306	Cominus hic sanctum compellant vocibus ultro:
+307	Praesidiis, Martine, tuis delabimur astris,
+308	Squallidus ipse sedes, sed fit tua cura Tonantis:
+309	Suffragiisque tuis coeli fremit arduus axis,
+310	Belliger et totis conspirat Olympus in armis,
+311	Ut coepta efficias, per nos tibi militat aether,
+312	Mittimur a Domino gemini, tua castra regentes;
+313	Hac pro parte duces melior qua causa laborat.
+314	Nunc, age, rumpe moras, neu rustica turba rebellet,
+315	Arma ministra vides: nostrum est superare superbos.
+316	Irrue, ne trepides, ope nostra, ad templa ruenda,
+317	Nec titubare decet, favor est tibi Numinis almi.
+318	Tunc sacer aggrediens properus dissolvere templum,
+319	Idola exstinxit, fana exuit, obruit aras;
+320	Totaque sublimis iacuit sub pulvere moles,
+321	Rusticitas, inimica prius, favet ipsa ruinae,
+322	Instat et excidio, quae defendebat iniquum,
+323	Idola eiiciens, numen confessa Tonantis;
+324	Uno eodemque ictu hoc respuit, eligit illud.
+325	Post Heduorum dum templum divellere tentat,
+326	Obstant inculti cultores ruricolares
+327	Ne colerent melius, sua si cultura periret;
+328	Ex quibus audaci nixu male fortior unus,
+329	Aggreditur gladio caput obtruncare sacratum,
+330	Cui nuda cervice pater sese obtulit ultro.
+331	Ast ubi mente ferox totas collegerat iras,
+332	Exacuens rabiem, sed cordis acumine tonsus,
+333	Acrius insiliens totos suspenderat artus:
+334	Bis furor armatus iuguli ruiturus in ictum,
+335	Tam gravius feriens, quantum alte educitur ensis,
+336	Astrictis capulo digitis, dum temperat ungues,
+337	Noxius, horrifica meditatus vulnera dextra,
+338	Mortis amicus, amans facinus, crudeliter ausus:
+339	Iam ferro incumbens, capiti mucrone reducto,
+340	Sternitur ipse solo qui sic pendebat in ictum:
+341	Ac resupinus humi, qui pronior ibat in ausum,
+342	Mittit et ore precem, cum membra superba iacerent.
+343	Iusto stante cadens, quo credit stare cadente,
+344	Dum vice diversa stat inops, ruit ille superbus,
+345	Rursus opus peragens, idola evertit: et ecce,
+346	Vir quidam tractans Martini de nece, cultrum
+347	Dum rapit, eripitur rapienda rapina rapaci,
+348	Excussumque fugit sine more volatile ferrum,
+349	Iam leviore via, neque post comparuit usquam,
+350	Sic cultro ablato, manibus latro exstitit insons;
+351	Redditur et mitis postquam fit nudus ab armis,
+352	Nec furor ante animi periens, nisi tela perissent;
+353	Invita haec pietas quae perdidit unde noceret.
+354	Saepe beatus item, contradicentibus ipsis
+355	Agricolis, praestante fide, se orante, iubebat,
+356	Ut male culta suis caderent fera fana ministris;
+357	Sic quoque pontificem soliti impugnare rebelles,
+358	Dum templa evertunt, ipsi sunt arma beato,
+359	Hostilique manu Martini bella geruntur.
+360	Partibus atque suis alieno milite vincit.
+361	Tunc etiam fuerit curatio quanta patrono,
+362	Quanta medelifero manavit gratia tactu,
+363	Laudibus in tantis muta est facundia mundi.
+364	Quem cunctis vidisse fuit meruisse salutem,
+365	Est satis ipse suus generosus testis et auctor.
+366	Qui quondam ingrediens Trevirorum moenia mitis,
+367	Qua resoluta diu per viscera fluxa, rigebat
+368	Turbida paralysis, gelido languore, puella,
+369	Flatibus extremis quasi iam de funere vivens,
+370	Cuius erant oculi vigilis custodia mortis,
+371	Funeris exsequias reddentia lumina membris,
+372	Solvere festinans animatae vincula carnis,
+373	Spiritus arcano vix mobilis ibat anhelo,
+374	Fine trahens dubio perituram naribus auram:
+375	Pes, manus, ora, genae, recubabat imago sepultae,
+376	Nec tumulata quidem, sed portio tota sepulcri,
+377	Cuius amore pio patris exanimata senectus,
+378	Dilacerata genis, niveis male compta capillis,
+379	Cum impatiens ageret, nec adesset cura medellae,
+380	Comperit ut sanctum advectum dignanter ad urbem,
+381	Advolat inde senex vitulis iuveniliter armis,
+382	Impiger exsiliens, cursu sua tempora vincens.
+383	Pontificum vallante choro, populoque frequente,
+384	Irruit in medios clamoribus inverecundus;
+385	Nam dolor insignis non respicit arma pudoris.
+386	Corruit ergo senex sancti ad vestigia pronus,
+387	Genua, manus plantasque per oscula mollia lambens.
+388	Vix gemitu laxante, loqui sic incipit aeger:
+389	Vir Martine Dei, populari nate saluti,
+390	Vir cunctis bonitate parens, tibi suggero luctus,
+391	Nec miseri pereant lacrymae, pietatis amice.
+392	Quem mea causa trahit, loca tam longinqua venire,
+393	Ut labor iste viae tribuat compendia vitae,
+394	Est mihi nata domi, decumbens vulnere morbi,
+395	Exsequiis vicina suis, sine sorte medelae.
+396	Quae quondam incolumis stabat, mea sola voluptas,
+397	Obsequiis intenta piis, placabilis, in qua
+398	Vita meam haec mihi dulcis erat solando senectam,
+399	Ecce perit secumque trahit mea viscera letho,
+400	Canitiemque patris miseranda in tartara ducit.
+401	Ire sed ipse prior cuperem, si forte liceret.
+402	Quaenam vita seni, vel quo mihi vota parenti,
+403	Spe pereunte patris, cum nomine prolis ademptae?
+404	Qua nubente viro, per dona futura nepotum,
+405	Aridus in ramis poteram revirescere prolis;
+406	Cum magis haec reputem praesentis damna salutis,
+407	Me spectante, rapi natam mea lumina luci,
+408	Ordine deposito melius cui causa placeret,
+409	Ut senis illa patris oculorum clauderet orbes.
+410	Unde sacer dignare avidam suspendere mortem,
+411	Atque minister opis, rapiendae occurre puellae:
+412	Si mora sit, mea causa perit, succurre duobus:
+413	Nam me cura necat, si illi curatio cessat.
+414	Qua sacer erubuit confusus voce sacerdos,
+415	Indignum sese tali virtute ministrum.
+416	Sed pater instabat, compellens vocibus iisdem:
+417	Debitus insanis medicus venis, exere curas.
+418	Sentiat adventum medici purgatio morbi.
+419	His impulsus adit qua lassa puella iacebat,
+420	Turba astante foris faceret quid pastor ovili.
+421	Hinc sua bella gerens, orator ad arma recurrit,
+422	Sternens membra solo; sensu super astra reducto,
+423	Hinc ubi consurgens, faciem respexit alumnae,
+424	Illico vox rediit, peregrinis aedibus hospes.
+425	Et rediviva suae cecinerunt organa linguae;
+426	Paulatimque artus liquor ut penetravit olivae,
+427	Vivificata, pedum geminis stetit arca columnis,
+428	Et fundata suo viguerunt culmina gressu.
+429	Post quoque Tetradii famulus proconsulis expes,
+430	Mancipium alterius sub hospite daemone factus,
+431	Dentibus ut rabies alienis frenderet armis,
+432	Nec sua, sed hostis fieret se milite pugna:
+433	Quem Dominus famulum supplex purgare precatur,
+434	Sed duci ad sanctum vetuit ferus hospes et hostis
+435	Tetradius, rursus iusti vestigia lambens,
+436	Supplicat ut pergant ubi saevus latro latebat,
+437	Sed sacer ipse domum gentilis adire recusat:
+438	Spondet Tetradius humilis cum fascibus altis,
+439	Si eripiat hosti famulum, se credere Christo.
+440	Imposita ergo manu puero, fera larva recedit,
+441	Et mala iucundum pastorem bestia fugit.
+442	Tetradius pariter catechumenus esse meretur,
+443	Atque salutiferi baptismatis amne novatur.
+444	Sic puer et dominus maculis purgantur ademptis,
+445	Iste hostis laqueis, erroribus ille solutis,
+446	Ille carens animae poenis, hic carnis erinnis.
+447	Liber uterque manens gemino micuere triumpho:
+448	Conditio famuli libertas facta patroni;
+449	Accipit iste fidem, cum de illo perfidus exit.
+450	Nec longo spatio sub eodem tempore sanctus
+451	Forte domum ingrediens, in limine substitit ipso,
+452	Terribilem referens se cernere daemonis umbram,
+453	Arreptoque coco vexat fera bellua praedam,
+454	Dentibus armatis lacerans se sive sodales;
+455	Terga dabant socii, nec quisquam ire obvius audet,
+456	Vix loca tuta fugae capientes praepete saltu,
+457	Hoc satis esse suum, vel se subducere morsu,
+458	Martius ergo chalybs, Martinus belliger armis,
+459	Nec pede diffugit, nec sivit abire fugacem;
+460	Pestem stare iubens: acuit qui fauce molares,
+461	Cui digitos vir sanctus in os cum mitteret, infit:
+462	Si potes, ecce vora oblatam, lupe noxie, praedam.
+463	Quam peteres alibi, datur ultro dentibus esca.
+464	Quo dicto fauces geminae revocantur utrinque,
+465	Ne violet digitos, suspendit bellua rictus,
+466	Et manibus tangi timuit, qui dente voraret,
+467	Qui dum intra obsessum poenis ageretur acerbis,
+468	Nec tamen ob digitos exire per ora liceret,
+469	Foeda ministerii, foedus, vestigia linquens.
+470	Sordibus egreditur, qua sordibus est via fluxu,
+471	Tale iter arreptum sic te decet ire, viator.
+472	Hinc cum barbariem sparsisset fama per urbem,
+473	Proventumque trucem crudelia semina ferrent,
+474	Pastor adesse iubet quemdam ex grege daemonis, illi
+475	Imperat ut prodat, si nuncia vera vagarent,
+476	Tortus ut ore reus, veluti sub iudice missus,
+477	Gressibus humanis advectus, larva fatetur:
+478	Hanc famam in populos bisquino daemone fusam
+479	Ut cogente metu Martinus abiret ab urbe.
+480	Barbara tempestas tranquilla lege quiescit,
+481	Formidanda tibi nulla est irruptio gentis,
+482	Nec causam armorum verearis, pacis amator.
+483	Martino praesente, aditum fallacia perdit;
+484	Mendax vera refert; et certum nuntiat error.
+485	Insatiata malis, quae sic fremit ore cruento,
+486	Bestia, bella movens, revocavit munera pacis
+487	Inde Parisiacam sacer intrans concite portam
+488	Obviat in faciem leprosum versus euntem,
+489	Qui sibi dispar erat, nec iam a se cognitus, ibat,
+490	Vir maculis varius, cute nudus, vulnere tactus
+491	Tabe fluens, gressu aeger, inops visu, asper amictu
+492	Mente hebes, ore putris, lacerus pede, voce refrictus
+493	Induerat miserum peregrino tegmine pallor.
+494	Improvisus enim hunc sanctus sua ad oscula traxit
+495	Astringensque virum fuso medicamine laxat.
+496	Nam simul ut tetigit benedictas ore salivas,
+497	Effugit unguiferum languoris sarcina tactum,
+498	Mersa figura redit, faciem cutis advena vestit,
+499	Ad speculum remeat peregrina fronte character,
+500	Et deleta diu describitur oris imago,
+501	Virtutum quam celsa fides, ubi concite sancti
+502	Pacis ab officio perierunt praelia morbi!
+503	Complexu res dira fuit, languoris iniqui
+504	Peste cadente, novam gesserunt oscula pugnam.
+505	Inclita relligio Martini, cuius honore,
+506	Foedera fida fides formosat, foeda fidelis.
+507	Felix relligio, sancti pede, lumine, tactu
+508	Illustris, lustrante viro loca, lustra, ligustra,
+509	Urbes, rura, domus, templa, oppida, moenia, villas,
+510	Quaeque viri insignis tam insignia signa mereris,
+511	Cuius ab ore sacro, magnalia caetera vincens,
+512	Leprosi ad curam Iordanis in oscula fluxit,
+513	Et fontem fluidae maculae lavat unda salivae.
+
+LIBER SECUNDUS 
+
+1	Pendula iam dudum laxavi carbasa pinu,
+2	Dum pelagus componit iter, dum nauta resumit,
+3	Et restricta semel levius se sarcina ducit,
+4	Me quoque iam primi finita parte libelli,
+5	Ad cursum levis aura vocat; paro lintea ventis:
+6	Spiritus altevolans imple mea vela secundans,
+7	Ne trepidam classem contraria fiabra flagellent;
+8	Martinum mea prora vehat, sancta emptica nautae,
+9	Dulcis apex, spes fida ratis, leve pondus amantis,
+10	Mercis onus suave est, et sive haeretur in ulnis,
+11	Qui tetigit quodcunque manu, vel tactus ab illo est,
+12	A digitis salit alta salus, fluit unguem ab ungue.
+13	Fimbria quin etiam quod nobilis attigit unquam,
+14	Sparsit abundantem modica de veste salutem:
+15	Fontis et huius aquae restricta est unda cruoris,
+16	Siccavitque suo refluamina fluxa fluento.
+17	Sumens aeger opem per furta salubria fili:
+18	Dum nescit medicus, finit discrimina morbus.
+19	Arbiter Arborius, vir praefectorius idem,
+20	Quartano genitam graviter cruciante camino,
+21	Plurima dum faceret, neque cura mederet alumnae;
+22	Missa beata viri restrinxit epistola febrem,
+23	Quae super imposita charta recubante puella,
+24	Mox sudoris aquas ubi littera sicca rigavit,
+25	Febris ab internis extracta est arida membris,
+26	Axe serenato madidans sine vellere nimbi,
+27	Rore atramenti restincta est flamma camini:
+28	Israelitarum veluti Moysiticus alter,
+29	Ne vapor excutiat, protendit pagina nubem.
+30	Quam mirum artificem dantem per scripta salutem!
+31	Sic operabatur praesens, ubi noverat ipse.
+32	Quae patre ab Arborio Martino offertur opimo.
+33	Consecranda manu qua salvificata sit ipsa.
+34	Quam bene bis sanam cum virginitate puellam.
+35	Reddit ipse patri proprio pater ille superno?
+36	Sic meruit geminam, solo curante, medellam
+37	Dum charam sobolem morti subduxit utraeque
+38	Paulinique oculum tetra caligine mersum,
+39	Impositis manibus, radius penetravit acutus,
+40	Atque serena dies, detersa nube, refulsit,
+41	Lumen et emicuit facies non lusca gemellum
+42	Martini digitis oleo manante lucernae,
+43	Cuncta salutifero supernans collyria tactu.
+44	Ipse etiam casu scalarum vertice lapsus,
+45	Dinumeransque cadendo gradus, capite, ore relisus,
+46	Attritus membris, descendens saltibus amplis,
+47	Multorum medicus, quamplurima vulnera portans,
+48	Dum cellae recubat graviter sub nocte sopora,
+49	Pervigilis Domini venit angelus aere fusus,
+50	Ulcera quaeque viri tractans, dum singula palpat,
+51	Tangens membra manu, solidat vestigia gressu,
+52	Excutiturque lues, fugitivo tabida saltu,
+53	Et sudibus laceros rediit cutis una per artus,
+54	Crastinus incolumi processit corpore comptus:
+55	Angelicamque fidem testes praesentia fecit.
+56	Nec perferre pium longinqua flagella decebat,
+57	Quando flagellari graviter non pertulit ullum.
+58	Praetereunda mihi neque sunt haec maxima rerum.
+59	Maximus Augustus, nece regis, maximus armis,
+60	Imperium nactus, civili clade superbus,
+61	Dum regit insolitas frenorum infrenus habenas:
+62	Pontificum cui tunc adulatio laxa favebat,
+63	Principis et nutu, cleri cum circulus ibat,
+64	Martino veniente, tamen rex ipse precatus
+65	Ut sanctum ad mensam habeat; qui saepe repulsus,
+66	Tandem promeruit fieri conviva beati.
+67	Imperio plaudente simul sedet, urbe favente,
+68	Convivam coeli quod terrena excipit aula.
+69	Conveniunt proceres, praefectus, consul, honores
+70	Certatim acciti, regalia festa colentes,
+71	Principe postposito miraturi acta sacrati.
+72	Augusti obsequiis fremit undique concitus orbis:
+73	Divitias pariter producens, deliciasque,
+74	Quas habet Indus, Arabs, Geta, Thrax, Persa, Afer, Hiberus:
+75	Quod fert meridies, arctos, occasus et ortus,
+76	Quod Boreas, Aquilo, Libs, Circius, Auster et Eurus.
+77	Quod Geon et Phison, Tigris Euphratesque redundant,
+78	Rhenus, Arar, Rhodanus, Tibris, Padus, Hister, Orontes,
+79	Quod mare, terra, polus, pisce, alite, fruge ministrat,
+80	Emblema, gemma, lapis, toreumata, thura, falerna,
+81	Gazaque, Creta, Samos, Cyprus, Colophona, Sareptis,
+82	Lucida perspicuis certantia vina lapillis,
+83	Vix discernendis crystallina pocula potis,
+84	Inde calix niveus variat per vina colores,
+85	Hinc mentita bibunt, patera fucante, falerna,
+86	Hinc abacum picto bombycina flore decorant,
+87	Arte laborata, vel qualia pensat aragne;
+88	Serica purpureis sternuntur vellera villis,
+89	Illita blatta toris, aurumque intermicat ostro.
+90	Totaque permistis radiant velamina gemmis.
+91	Inde pari pariter rutilant aetate ministri,
+92	In cunctis varius habitus, nitor omnibus unus,
+93	Quod valet ore loqui, potuit sub principe ferri.
+94	Ordine Caesareo, Martino haec pompa paratur,
+95	Qui modicis contentus erat, satiandus in uno.
+96	Accubat interea princeps, simul ordo, senatus.
+97	Presbyter inde toro veneranda acclinat in ulna.
+98	At iuxta regem sella sacer assidet arcta:
+99	Porrigit hinc regi mox pocula prima minister,
+100	Qui sancto iubet ante dari, quo possit ab ipso
+101	Augustus calicem excipere, et potare secundus.
+102	Martinus patera oblata ut bibit ore parumper,
+103	Divino sitiens potius se fonte rigari,
+104	Principe postposito, partem libaminis imam,
+105	Presbytero tribuit, noscens quod dignior esset
+106	Miratur princeps, proceres, conviva, ministri,
+107	Iudicioque suo se pensavere minores.
+108	Illico percurrit res gesta, palatia complens,
+109	Hoc, quod apud sanctum fuit ordine presbyteratus
+110	Augustus conviva minor, vox una per urbem
+111	Martinum fecisse canit, sub principis ora,
+112	Iudicis in minimi mensa quod nemo valeret
+113	Erubuitque aliud hinc dicere turba, satelles.
+114	Si quid enim voluit pro supplice forte precari,
+115	Induperatori Martinus et imperat ipsi.
+116	Qui tamen Augusto praedixit sorte futura,
+117	Prospera quae meteret, quae mox contraria ferret.
+118	Motibus Italiae pugnante Valentiniano,
+119	Maximus ut cecidit, post bella secunda, tyrannus,
+120	Qui grave succubuit Aquileia protinus urbe,
+121	Martini dictis et verbo libra pependit.
+122	Coetibus angelicis visus saepe, atque locutus
+123	Miscuit humanas turmis coelestibus aures,
+124	Voce salutatus, vel nutibus ipse salutans
+125	Aligeros proceres, tenuata per aera lapsos,
+126	Mitibus alloquiis ageret quid saepe moverent,
+127	Quid coelo expeterent, terrena sede, parentem,
+128	Et consanguineum quasi longa in saecula civem,
+129	Voce requirentes, et amore perenne vocantes,
+130	Quid faceret terris anima haec tam libera culpis?
+131	Ut subeat coelis peregrinus, et hospes ab arvis.
+132	Daemonicas etiam species, falsasque figuras,
+133	Quaslibet in formas se verteret inficiator,
+134	Perspicuas habuit penetralis acumine visus:
+135	Martinique oculos neque falsa fefellit imago,
+136	Nam quamvis varia tegeretur larva figura,
+137	Sancto nuda fuit, cum non se absconderet umbra.
+138	Et quod a perfidiis illusio nulla valebat,
+139	Prensus in arte ferox, iaculabat probra beatum:
+140	Et cum fraus cessat, hostis convicia iactat.
+141	Tempore nam quodam cornu bovis ecce cruentum
+142	Ipse cruentus habens, infert ad tecta sacrati
+143	Irruit in cellam, causamque exponit iniquam:
+144	Quo virtus, Martine, tua est? Hoc aspicis, inquit,
+145	Unum namque tuum nuper hac caede peremi,
+146	Et mihi praeda iacet, pecuali capta ministro,
+147	Iniunctumque nefas sceleris bos armiger implet.
+148	Damno cresco tuo, congaudens ubere fletu.
+149	Protinus his dictis fratres sacer advocat omnes,
+150	Et pater ore refert quidquid ferus indicat hostis.
+151	Sollicitus ne quid lupus abripuisset ovili.
+152	Perquirunt socios monachi, numerumque recensent:
+153	Sed grege de niveo modicus neque defuit agnus.
+154	Conductus mercede tamen deest rusticus unus:
+155	Ligna trahenda focis nemorum vectore bubulco,
+156	Quo propero iubet ire gradu, causamque requirit,
+157	Semianimum inveniunt missi, supremo gementem,
+158	Indicat atque necem, dum adhuc super halitus errat,
+159	Quod sua laxato taurus foret inguina cornu,
+160	Explicataque fide, vitam cum voce reliquit.
+161	Nec sanctum hoc errare facit quod fecerat error.
+162	Additur hinc etiam rerum mirabilis ordo,
+163	Mille nocendi artes dum perfidus exerit hostis,
+164	Nunc Iovis in faciem, nunc se mentitus Anubem,
+165	Saepe habitu Veneris, saepissime fronte Minervae:
+166	Sedulus insidiis sancto sua seria rumpens,
+167	Diversis formis, ut terror cresceret, offert;
+168	Et varius generet, specie variante, timorem,
+169	Qui virtute nequit, superatus ut arte rebellet.
+170	Sed tamen intrepidus persistit, inania temnens,
+171	Semper in adversos iaculans crucis arma beatus,
+172	Belliger hoc clypeo hostilia tela relidens,
+173	Qua penetrante acie, se machina falsa resolvit.
+174	Saepe etiam in sanctum vacuos acuere tumultus,
+175	Inficiatores, falso minitante flagello.
+176	Sed fremitus fragilis per inania cymbala tinnit,
+177	Oppositisque minis interritus ipse resistit,
+178	Nec fundata decet contra evacuata moveri.
+179	Hinc quoque lethiferi suffusus felle veneni,
+180	Perfidus, horribilis, trux, lubricus, invidus anguis,
+181	Ore cruentatus Martinum provocat armis:
+182	Cur habeat monachos, oneroso crimine pressos:
+183	Cur maculosa cohors habitet pia septa magistri?
+184	Ne rea turba malis violet consortia iusti:
+185	Morbida neu reliquos vitii contagia fricent,
+186	Qui male polluerint lavacri venerabilis undam,
+187	Ac sua perdiderint baptismata crimine mersi,
+188	Nec via sit veniae, periit quibus orbita lapsis,
+189	Cum semel in foveam vix est revocare ruentem,
+190	Ac neque restitui vastato in corpore florem;
+191	Nec redeat miseris ultra indulgentia Christi.
+192	Tunc Martinus ait haec contra daemonis iram:
+193	Perfide, decipiens, quia non tua commoda cernis:
+194	Hostis inique tibi, tibi iam noxa pereunte,
+195	Si nunc poeniteas, si nunc resipiscere velles,
+196	Praecipitare animas ut iam per crimina nolles
+197	Nec tua saevirent alienae tela ruinae,
+198	Erroresque tuos damnares, ultime iudex,
+199	De pietate Dei fidens, promittere possim,
+200	Ut tibi tam misero misereri Christus haberet,
+201	Et cito donaret scelerata piacula cnlpae.
+202	Ob hoc arce poli descendit ad arva Redemptor;
+203	Perdita ut eriperet, peritura nec ipsa perirent,
+204	Immaculatus enim maculas detergere venit,
+205	Vulneribusque suis curaret ut ulcera mundi.
+206	Funeris ordo sui nostrae fuit arrha salutis:
+207	Sputa, flagella, chlamys, fel, acetum, lancea, clavi,
+208	Crux pia, mors, tumulus, lapis, inferus, umbra, tyrannus
+209	Victa simul triduo premit, et redit auctor ad astra,
+210	Descensusque suus meus est ascensus in altum,
+211	Nec peccatoris mortem magis eligit ultor,
+212	Quando suis poenis nobis dedit arma salutis.
+213	Sic pius indomitam pestem mansuescere tentat,
+214	Promisitque lupo bona pastor ovilia reddi.
+215	Quanto magis homini reserari praemia Christi,
+216	Propter quem ipse Deus homo fit, iacet atque resurgit?
+217	O pietas et celsa fides, praesumptio dulcis,
+218	Quae promittit opem deceptori et perituro!
+219	Explicuit votum, si non valet ire iuvandum,
+220	Cui minus in posse est, satis ostendere velle.
+221	Nam totum impendit qui non abscondit amorem.
+222	Hinc Clarus, placidus adolescens moribus, expers,
+223	Martinum amplectens patrem, et sua cuncta relinquens,
+224	Tempore quique brevi micuit virtute fideque,
+225	Cum prope pontificem habitacula constituisset,
+226	Ac sua complures peterent consortia fratres,
+227	Huic se tunc monachus socians Anatolius addit:
+228	In commune prius humilis censura, sodalis,
+229	Qui rudis ingenii, versuto illusus ab hoste,
+230	Post ait, ad sese quod coelitus angelus iret,
+231	Ac reserare sibi mysteria clausa Tonantis,
+232	Et cito siderea volitent sua nuntia penna,
+233	Atque remissa viri responsio nubila tangat,
+234	Inter se et Dominum memorans iter esse propinquum,
+235	Ac sibi contigui iactat confinia coeli,
+236	Se secreta Dei noscendo iam esse prophetam.
+237	Sed Clarum, ut credat, nec opinio falsa movebat.
+238	Tunc sine more furens Anatolius asserit audax.
+239	Quo sibi de coelo Dominus transmittat amictum.
+240	Induat et vestem delatam nocte silenti,
+241	Ut signis stupeant cuius modo verba cavillant.
+242	Elevat hinc varium monachorum turba tumultum,
+243	Et suspensa tenet spectatio vana sodales.
+244	Interea medias quasi nox transcurrerat horas,
+245	Et rota flexa aequo gyrabat cardine metam:
+246	Fit subito strepitus, quatitur locus, arma moventur:
+247	Et concussa simul vario fremit aula susurro,
+248	Murmure raucisono frangente lepore loquelas.
+249	Credas pugnaces volitare per astra phalanges,
+250	Et videas rapidas discurrere turbine turmas.
+251	Hic ubi concussis redierunt otia turbis,
+252	Motaque tempestas tranquilla silentia sumpsit,
+253	Advocat ex monachis confestim Anatolius unum,
+254	Cominus et tunicam ostentat iactantior albam,
+255	Qui vacuo tumidus falso umbrabatur honore,
+256	Candidus exuviis, sed nigri daemonis arte.
+257	Inde ciet reliquos, occurrit Clarus et ipse,
+258	Palpat mollitiem vestis candore nivali,
+259	Serica confingunt tenuato stamina filo,
+260	Nec contacta manu discerni vellera possunt.
+261	Ducitur interea monachis nox pervigil hymnis
+262	Et compacta choris Davidica canna resultat,
+263	Ut coram Altithronus velamina visa revelet.
+264	Iam spumabat equis aurorae auriga rubores,
+265	Sol quoque lucifluas circumflectebat habenas,
+266	Atque renata dies revocabat in arva labores,
+267	Mox Clarus monachum Martino ostender tendit,
+268	Noscens pontificem phantasmata nulla latere.
+269	Cum sancti ante oculos vario fuit una figura,
+270	Decipulamque suam deceptor perdit in illum.
+271	Coeperat his demens Anatolius ergo reniti,
+272	Interdicta sibi Martini occurrere ovili,
+273	Dum tamen invitis traheretur passibus haerens,
+274	Tegmina falsiloqui vanescunt alba nigelli,
+275	Et male destituunt monachum vaga pallia nudum;
+276	Nec stat imagineis simulatilis umbra figuris,
+277	Territa Martini sic nomine larva refugit.
+278	Hostis iners maiora suis dehinc viribus audens,
+279	Perfidus et totiens elisus, nec sibi credens,
+280	Debilis arma movens, et degener ardua tentans,
+281	Ut sua laus fieret vel sollicitasse potentem,
+282	Cresceret et titulis, fortem pulsasse sagittis:
+283	Denique cum sanctus recubaret in aggere fusus,
+284	Insinuando preces Domino pro plebe sacerdos,
+285	Constitit ante oculos deformis forma rebellis,
+286	Sulphurea sub luce micans radiatilis umbra,
+287	Lumine mentito tenebrosus, et atra vorago;
+288	Fulgidus exuviis, regali veste satelles,
+289	Tectus bracteolis, vacuo diademate pulcher;
+290	Ordine gemmarum numerosa luce coruscus,
+291	Falsa veste potens; cui calceus illitus auro,
+292	Latior et tumido iactans se pompa triumpho,
+293	Cuius ad aspectum sanctus habet ora repressa,
+294	Mutuaque ambo diu tenuere silentia fastu;
+295	Mirans ille virum, dum despicit iste superbum.
+296	Quem prior alloquitur reus, et temerarius hostis:
+297	Quae dudum, Martine, cupis penetrante precatu,
+298	Iam pia vota tenes: ego sum gloria tua Christus,
+299	Exigis ut veniam validos recreare labores,
+300	Et sudata tuis ut soler bella triumphis?
+301	Debita militiae dare oportet munera regem,
+302	Descensurus enim ad terras huc dirigo gressum,
+303	Ut tua sollicitis requiescant pectora curis.
+304	Hic sacer intrepidus, nolens responsa referre,
+305	Despicit, et reticet, tractat, neque verba relaxat.
+306	Mens solidata manens, rimans alta atque profunda,
+307	Cardine nec tremulo. vento neque flante rotatur.
+308	Lubricus hinc repetit mordacia sibila serpens:
+309	Credere quid dubitas, proprio quod lumine cernis?
+310	Et ego sum Christus, tecum qui confero voces,
+311	Et loquor haec secreta palam dignando futura.
+312	Nec de me trepides, testis mihi fulgida lux est,
+313	Spiritus ut verax Martini ignivit acumen,
+314	Ac patefecit iter, ne clausa venena laterent,
+315	Hostis et anguinei posset discernere fraudem,
+316	Libertate potens, sanctis sermonibus inquit:
+317	Non ita se Dominus venturum dixit in orbem,
+318	Se neque purpureum, nec sic diademate fultum,
+319	Pandit apostolicis, voce insinuante, columnis,
+320	Cum sua carnalis raperetur ad astra figura,
+321	Atque piis plantis straverunt flamina pennas,
+322	Cum pede pressa sacro servirent aera regi,
+323	Angelicis vectus manibus, celer aethera calcans,
+324	Ingrediens teneras, neque frangens gressibus auras,
+325	Pendula planta volans cum nubila finderet intrans,
+326	Remige pennigero qua non facit ala sigillum,
+327	Cum Galilaeis tunc spectantibus angelus astans,
+328	Sic ait: Altithronum rediturum, qualiter ire
+329	Vidistis, coetumque supra vestigia ferre.
+330	Unda probanda probo, reprobo reprobantia probra,
+331	Non sunt signa mei regis, sed castra tyranni.
+332	Ast ego tranfixas clavis nisi videro palmas,
+333	Atque beata crucis tum stygmata carne gerentem,
+334	Ac latus, effossas traiecto missile costas,
+335	Unde cruentati pariunt baptismata rivi,
+336	Et sacra purpureo malas lavat unda fluento;
+337	Quae dedit in pretio generosa talenta Redemptor;
+338	Inde crucis trutina, pretii numismata pensans,
+339	Totum auctor redimens thesauro corporis orbem,
+340	Cum gemma una fuit, quae cuncta in vasa valeret,
+341	Hac nisi veste tegi videam qua pertulit auctor,
+342	Indicio sine hoc Christum venisse negabo.
+343	Nam decet ut victor doceat per signa triumphum,
+344	Plagaque fixa potest laude accumulare tropaei.
+345	Mox inimicus iners, vibratus verbere vitae,
+346	Pestifer aerius tenuata per aera lapsus,
+347	In propriam speciem rediens ad inane solutus,
+348	Effugit ex oculis liquidas quasi fumus in auras,
+349	Et levis umbriferae volitavit imago figurae,
+350	Visibus exclusus, cellam pedore cruminans,
+351	Agnitus indiciis, sua per vestigia sordens,
+352	Et fetore sibi comitante satellite fugit:
+353	Martinique fidem neque fulgida forma fefellit,
+354	Nec radium mentis delusit splendor inanis,
+355	Luce superfusa, qua se nox tetra tegebat.
+356	Nunquid non poterat humilis superare superbum?
+357	Aut non deiiceret tam mente benignus iniquum?
+358	Pacificis armis, doctus domitare rebelles,
+359	Cuius dulcis erat favor et honor altus amoris,
+360	Non solum abluere alterius, sed lambere plantas,
+361	Hospitis atque novi vestigia tergere lingua.
+362	Semper aquam manibus tribuens venientibus ipse,
+363	Coelestis cupiens homini servire minister,
+364	Et manus alma pedes de peccatore luebat:
+365	Cum sua porrigeret vel fimbria tacta salutem.
+366	Qui illecebras mundi fugiendas instituebat,
+367	Et saeclo sua lucra dari, nil quaerere terris,
+368	Ut censum fugeret qui ascendere vellet olympum,
+369	Ut grave pondus agri, vel nummi nullus haberet,
+370	Nec retineret opes, qui coelo occurreret haeres,
+371	Namque onus ascensum vetat, et descendere praestat,
+372	Imum versa tranunt, nec in altum pondera ducunt,
+373	In montem gradiens titubat sub fasce columna,
+374	Deficit et fragilis valido sub pondere planta:
+375	Mergit in undosum cumulatam sarcina proram,
+376	Ut petat ad portum, rerum facit emptica iactum.
+377	Qui pater illustris Paulini gesta beabat,
+378	Floruit Italiae quo post antistite Nola,
+379	Qua regio Campana sedet rectore supremo:
+380	Dives agris, opulens, famulis, locupletus acervis,
+381	Vir censu vastus, lare celsus, et ore rotundus;
+382	Ditior ipse fide, pro Christo fit sibi pauper,
+383	Et dedit innumeros redimentes crimina nummos,
+384	Cuius sparsa solo migravit ad astra facultas;
+385	Fecit et in coelum pigras ascendere terras,
+386	Uno stando loco, et dant bruta ad sidera saltum.
+387	Ergo evangelicum Paulino implente relatum,
+388	Martinus monitat cunctis talem esse sequendum,
+389	Tramite difficili potuit qui pergere dives,
+390	Depositoque onere ascendit qui liber in arcem,
+391	Exemploque monens vocat altius ire sequaces;
+392	Iam quoque Martini quae fabula fluxerit ore,
+393	Quae gravitas fuerit, quam acer de lege disertus.
+394	Quaestio nec latuit coelesti iure peritum,
+395	Vir reserare valens quodcunque aenigma negaret;
+396	Ingenii dulcis prudentia larga redundans;
+397	Fonte perenne bibens quod rivulus ille rigaret;
+398	Sermo pius, promptus, placidus, catus, aptus, amandus,
+399	In tantis animis coeli possessor in arvis,
+400	Pervigil orator, mandando negotia Christo,
+401	Iudicis in vultus inopum querimonia pandens,
+402	Doctus in arte sacra, miserorum exponere causas,
+403	Assertor validus, superans fora, iura, togatos,
+404	Nobilis astructor, facundus concionator,
+405	Qui prece profusa Domini vadimonia placans,
+406	Quantum voce valens viduis atque orphanatrophis,
+407	Cuius et ipsa polum taciturna silentia pulsant?
+408	Mens fundata Deo, sine fuco proxima coelo
+409	Otia nulla terens, et nulla negotia carnis:
+410	Quidquid agendum esset, totum velociter implens,
+411	Sed mora Christus erat, famulans sibi nocte dieque,
+412	Nam cibus et somnus, nisi quod natura necessat,
+413	Tardus edax, velox vigilans, sopor, esca sub ictu,
+414	Nec faceret, nisi quod sine his caro vivere nescit;
+415	Tempus utrumque dicans causis repetendo duabus,
+416	Lectio nunc resonans, sibi nunc oratio currens,
+417	Cuius erat requies tantum mutare labores,
+418	Si foris isset, erat homo iugiter intimus orans,
+419	Coelo non carnis, sed tendens lumina cordis.
+420	Nec dolus inclusus latuit, nec ab ore refluxit,
+421	Vir sine mundanis, Domini possessio munda,
+422	Nullum iudicio damnans, mala nulla repensans;
+423	Haec sua forte fuit, si facta iniuria fratri est,
+424	A minimis laeso non unquam erat ultio dulcis;
+425	Deque gradu proprio neque reppulit officialem.
+426	Charus et adversis, pius aequis, blandus iniquis,
+427	Ira, tumor, risus, moeror stetit exsul ab illo,
+428	Non in fronte tenens nubem, nec in ore cachinnum.
+429	Idem semper erat facie, cute, corde, colore.
+430	Nec variabat opus, vir adhuc in corpore constans,
+431	Immortale aliquid mortali ab imagine promens,
+432	Ora Deus, sensum pietas, pax corda tenebat,
+433	Pro se parva gerens, aliena misertus agebat,
+434	Naturae ut seriem postponens angelus esset,
+435	Alta supergrediens, mente ultra nubila tendens,
+436	Liber ab humanis intrabat sidera curis,
+437	Inclyta signa gerens, et multa futura prophetans,
+438	Stabat adhuc terris, coelestibus intimus haeres,
+439	Noscens clausa Dei, quasi conciliator amici,
+440	Cum sua participat caro se certa clienti,
+441	Vir cui Christus amor, Christus honor, omnia Christus,
+442	Flos, odor, esca, sapor, fons, lux gloria et Christus.
+443	Huius in affectu insertus, solidatus, adultus:
+444	Ac velut arbor agri, secus est ubi cursus aquarum,
+445	Floricomis foliis, et fluctu perpete gaudens,
+446	Ornata aeternae fert poma perennia vitae
+447	Inter apostolicas acies, sacrosque prophetas,
+448	Martyriique choros, atque agmina fulgida coeli,
+449	Rege sub invicto, qua exercitus ille coruscat,
+450	Per turmas, proceres, legiones atque cohortes,
+451	Milite, seu comite, et gradibus duce, consule crescens,
+452	Lacteus iste toga, rutilus micat ille corona,
+453	Hunc praetexta nitens, illum diadema facetat.
+454	Hos chlamys, ast illos armilla topaza decorat:
+455	Balteus huic radiat, huic infula crine coruscat.
+456	Alter palmatae, trabeae nitet alter honore,
+457	Pingit et ornatum gemma, aurum, purpura, byssus,
+458	Nec videt hoc oculus quod habet super astra senatus.
+459	His frueris, Martine, bonis, sub principe coeli,
+460	Coetibus angelicis sociabilis, et patriarchis
+461	Compar apostolicis, meritis aequande prophetis,
+462	Addite martyribus, queis rubricat unda cruoris:
+463	Fulgide confessor, candentia lilia vincens,
+464	Lumine purpureo redimite, decore, corusce,
+465	Liberius gradiens per celsa palatia regis.
+466	Vir transcripte, potens, aeterna in saecula civis,
+467	Signifer arma crucis fers nobilitate triumphi,
+468	Dulcis, adorande, et mihi pectore, voce colende,
+469	Cuius prosaicus cecinit prius acta Severus,
+470	Versibus intonuit Paulinus deinde beatus,
+471	Aequiparare valens illustris uterque relator,
+472	Materia victi sed et ipsi carmine cedunt.
+473	Luminibus tantis ego nubilus inseror audax,
+474	De minimis minimus, de magnis maxima tentans,
+475	Qui pede subtitubo, balbutio faucis anhelo,
+476	Et rudis eloquio carpo quod condere certor.
+477	Da veniam quia te cecinit rea lingua relatu.
+478	Fer pietatis opem misero, miserando misertor,
+479	Rector ut Altithronus cum venerit arbiter orbis,
+480	Tum memor obtineas delicti oblivia nostri,
+481	Inter me ac Dominum mediator adesto benigne,
+482	Quem sua culpa ligat, tua ut interventio solvat,
+483	Spes Fortunati sit fida salutis egeni,
+484	Suppliciter humilem tibi se stravisse, patrone,
+485	Qui leprae maculas medicata per oscula purgas,
+486	Mortis et extremae revocas in origine finem;
+487	Carnis adhuc fragilis quondam sub imagine constans,
+488	Nunc opus ut mites pietas tua commodet aures,
+489	Nam prece posse vales apud illum, cuius haberis,
+490	Quod peto tu poteris, quia totum praestat amicis,
+491	Sic tibi quaeque petis tribuat praesentia regis.
+
+LIBER TERTIUS
+
+1	Hactenus in bibulis fixa stetit anchora terris,
+2	Otia lenta trahens, et inerti dente quiescens,
+3	Leniter alludens, dum sibilat aura soporem,
+4	Et nos umbra tegit, viridante crepidine ripae,
+5	Ecce serena dies rutilata crepuscula profert,
+6	Et pelagus rate nauta petit, iam solvo rudentes,
+7	Littus arundineum liquens, levo carbasa ventis,
+8	Ante per Adriacas spumas daret vela videbar,
+9	Turbine raptus aquae per murmura rauca fragoris,
+10	Cum duce Sulpitio, bene cuius ab ore venusto,
+11	Martini sacros dulcis stylus edidit actus:
+12	Quos ego sub geminis, claudo pede, curro libellis,
+13	Infimus egregii contexens gesta patroni.
+14	Rursus in Oceani videor mihi tendere fluctus:
+15	Maius iter gradiens, ubi se vada glauca relidunt,
+16	Et crescit terrore timor, rate, nube, profundo.
+17	Dum tamen alta peto, resonet mihi Gallus in aure,
+18	Gesta beata viri, qua mitigat unda tumorem,
+19	Et sermone viam relevet sale fabula dulcis.
+20	Deferor, ecce, freto, fugiunt et littora visum.
+21	Remiget hic Gallus, Martinus vela gubernet,
+22	Flamina Christus agat, portum quibus unda reducat,
+23	Nunc quoque gesta sacri, dum navigo nauta, loquatur.
+24	Mensibus hibernis, dum Bosphorus alligat undas,
+25	Et liquidos campos vetat imber arare carinis,
+26	Oceanusque negat commercia ferre Britannis:
+27	Cum sata sub rigido sua germina frigore celant,
+28	Ac penetrante gelu riget unda, et herba liquescit,
+29	Astitit ante fores orans vestem aeger egenus,
+30	Lingua ligata gelu, ne solveret ore loquelas.
+31	Ut tegeretur inops sacer imperat ergo ministro,
+32	Ipse remota petens, populi caret arte tumultu.
+33	Comperit ut sanctus nihil accepisse trementem,
+34	Exuitur tunica, algentemque obtexit amictu;
+35	Quam sine teste dedit latitans, et abire coegit.
+36	Ecce minister adest, rogitans procedere sanctum;
+37	Sed sacer ante monet vestiri tegmine nudum.
+38	Hoc memorante pio, stupidus hebet archidiacon:
+39	Quid faceret, nudum dum non ibi cerneret ullum?
+40	Noscere nec poterat, residente antistite, nudum,
+41	Qui tunicae interius non aspiciebat amictum,
+42	Amphibali exterius dum membra obtecta laterent,
+43	Angit in ancipiti quod hoc aenigma beati;
+44	Quaestio tanta ligat, neque problema solvit egeni.
+45	Tunc ait ipse sacer, mihi tegmen defer abollae,
+46	Nec pauper desit, qui vestibus indiget illis,
+47	Succensus graviter, tegmen fert vile minister,
+48	Ante pedes iactans, ait: En sine paupere vestem.
+49	Induitur sanctus hirsuta bigerrica palla,
+50	Vix cui digna foret stola lactea, et aurea fulva,
+51	Processit tum summus honor, sed pauper amictu,
+52	Despectus tunica, coelesti in sede senator.
+53	Interea populis cerimonia sancta retractans,
+54	Cum holocausta sacrae manibus benediceret arae,
+55	Protinus a capite emicuit globus ignis amici,
+56	Lambens colla comasque, et flamma benigna volabat,
+57	Tactu mollis, honore potens, splendore coruscans,
+58	Crinem ornans, meritum prodens, pro tegmine fulgens;
+59	Praebuit obsequium, minus impendente ministro;
+60	Gesta occulta index in lucem lumine mittens.
+61	O dives pauper, tunica contente nec una,
+62	Qui nec habes aliam, neque vis retinere vel ipsam,
+63	Dum superesse putas vestitum simplicis usus,
+64	Cui gravis est vel palla levis, dum clamat egenus:
+65	Tegmine pro nudi cupiens procedere nudus;
+66	Nec partiris opem, sed totum cedis egenti:
+67	Haec tua sola putans, petitus si nulla negasses,
+68	Ut magis esses inops, inopi dum cuncta dedisses,
+69	Nec puduit, verecunde pater, sine veste sedentem.
+70	Sed nihil erubuit pietas impensa fidelis,
+71	Nec minimam retinens, fieret quo maior honore.
+72	Est mihi velle loqui speciosa negotia nudi,
+73	Sed rapiunt avidum reliquarum insignia rerum.
+74	Dum recubaret homo fluitans Evantius aeger,
+75	Fessus et extremus cum iam super halitus iret,
+76	Pontificem precibus celer evocat, ut properaret,
+77	Et via coepta sacri fieret sibi vita reducti.
+78	Nec cunctatur iter Martinus adire viator.
+79	Vix medio spatio emensus gradiente senecta,
+80	Ante salutis opem misit quam visus adesset,
+81	Atque medela aegro data nuntiat ire beatum.
+82	Significans etiam cursor medicina sequentem:
+83	Dum pede tardat heros, praecessit cura volatu,
+84	Adventusque pii fert aura salubris odorem;
+85	Ut cito succurrant, unguenta per aera tranant.
+86	Sol veluti radiis dat longius ore calores;
+87	Sic Martinus opem, et quo non est, exhibet arte.
+88	Admiranda nimis res est, ubi peste fugata.
+89	Antea quam medicus pulsum tenet, exilit aeger.
+90	Obvius occurrens sancto, obsequiumque rependit:
+91	Duxit et ipse domum, qui se sibi luce reduxit,
+92	Nunc alacer saltu, recubans paulo ante grabato,
+93	Interea miris Evantius actibus expers,
+94	Supplicat incolumis, Domini ut mora crastina tardet,
+95	Hospitis et tanti tenet una diecula vultum,
+96	Sed mora tum fuit haec occasio danda salutis.
+97	Illico percutitur puer atro dente chelydri,
+98	Membraque percussi distenderat ira veneni.
+99	Cum spatium vitae mors importuna negaret,
+100	Flebile et in toto regnaret corpore virus,
+101	Exposuit puerum ante pedes Evantius almi,
+102	Omnia confisus Martinum posse mereri.
+103	Sanctus enim tactu mox singula membra pererrat,
+104	Atque manu medica morientia viscera palpat;
+105	Inde super vulnus, qua bestia fixerat ictum,
+106	Ut posuit digitum, fluit undique vena veneni,
+107	Et repedavit iter, dederat qua vipera virus.
+108	Hinc sacer inspiciens collecta tabe tumorem,
+109	Pollice subducto, quam fuderat ulcere serpens,
+110	Cuncta veneni vis per hiatum vulneris exit,
+111	Sanguine concreto stillans velut ubere caprae.
+112	Turgida plaga necem vomuit de vulnere filans;
+113	Concretam saniem vena saliente relaxans:
+114	Effert virus iners, refluente canale liquorem,
+115	Et data lethiferum revocat retro fistula rivum,
+116	Expugnante fide, morsus vim perdidit anguis;
+117	Et quia non perimunt, perierunt arma veneni.
+118	Stat puer incolumis, remanet neque pallor in ore;
+119	Miratur famulum dominus, stupet et domus omnis
+120	Currere servitio quem crederet ire sepulcro.
+121	Hinc pius antistes, loca singula more requirens,
+122	Hispidus occurrit rhedae fiscalis amictu:
+123	Quo iumenta, sacri dum pallia pendula cernunt,
+124	Fervida subductum rapuere per invia currum.
+125	Dimissis auriga rotis, et miles habenis,
+126	Martinum flagris et fustibus urget iniquis,
+127	Sed de caede viri pecudis datur ultio tristis;
+128	Ipse tamen patiens, iaculorum grandine pressus,
+129	Atque flagellantum dum debacchatur erinnys,
+130	Vulnera nulla refert manibus, nec ab ore susurros.
+131	Hinc gravius cruciat caedens ignobilis ira:
+132	Hic quia dum tolerat, se irrideri putat alter;
+133	Et magis iste furit dum sustinet ille libenter.
+134	Interea ad rhedam redeunt grassante querela.
+135	Dum satiat vindicta famem limphatilis irae,
+136	Mulas ire movent, qua publicus advocat agger,
+137	Voce premunt et fuste dolant, lacerantque flagello:
+138	Sed neque compulsae rapiunt iuga, lora quadrigae:
+139	Fixa manent, nec fessa movent velut aerea signa,
+140	Ceu liquefacta novo se glutine terra ligasset,
+141	A putre ut credas animalia pulvere nexa.
+142	Agnovere viri se numinis arte teneri:
+143	Accurrunt celeres, inquirunt nomen euntis;
+144	Martinum inveniunt a se crudeliter actum;
+145	Confuse flentes, rubicante pudore reclini,
+146	Ante pedes sancti sternuntur, et ore precantur,
+147	Ut veniam errori tribuat, sinat ire ligatos.
+148	Quos tamen ante sacer praedixerat esse retentos.
+149	Rem probat, ulcus amat, veniam dat abire perorat;
+150	Quos virtus vinxit, pietas mollita resolvit,
+151	Ore pependit iter, verba arctant, verba relaxant;
+152	Et iuga, frena, rotas, mulas auriga recepit.
+153	Carnotus hinc etiam dum praetereunda veniret,
+154	Ethnica per campos passim obvia turba fluebat,
+155	Excita amore sacri, licet hoc non crederet ipsi,
+156	Ad speculare novum concurrens undique visum;
+157	Cum nec dum his Christi radiaret honore character,
+158	Nec sacra verbigenae flueret super unda Tonantis.
+159	At Martinus ovans, Domino reserante profunda,
+160	Sensit adesse locum quo fertile surgeret arvum.
+161	Incipit alloquiis fera pectora cultor arare,
+162	Ore sacer nitido, dumosa novalia purgans,
+163	Proscindens iterans, bis terque quaterque resulcans,
+164	Paulatim ad fructus stupidos animaverat agros.
+165	Hinc rudibus populis Christi nova semina iactat,
+166	Sensibus humanis lactantia germina surgunt,
+167	Leniter et rigidis coalescunt gramina sulcis.
+168	Quid faceret sanctus, turbis coeuntibus amplis.
+169	Messe in tam multa veniens operarius unus?
+170	Excolit, includit, serit, inserit, alligat, ambit.
+171	Interea mulier defuncto pendula nato
+172	Brachia distendens offert ante ora cadaver,
+173	Funeris increpitans misero fera cantica planctum,
+174	Dum dolor ad lacrymas trahit, haec vix explicat ore:
+175	Fortis amice Dei, toto venerabilis orbe,
+176	Quem semper lamenta movent, pietate propinqua:
+177	Ardens quid cupiam, corpus tibi nuntiet algens.
+178	Ecce obiit miserae mihi filius, ubere raptus,
+179	In quo mater eram; nec spes, neque restitit haeres;
+180	Occubuit genitus, cecidit domus, et mihi fructus.
+181	Nulla remanserunt uteri solatia duri,
+182	Nec superest quod dulce vocem, quo fessa reclinem,
+183	Ubere quod recreem, totus perit ordo parentis,
+184	Qui restas, precor, affer opem medicamine verbi,
+185	Redde genus, nec sit matris mihi nomen inane,
+186	Ni soboles redeat, secum mea funera ducat.
+187	Adiuvat hanc populus clamans: Sacer, annue votis,
+188	In cunctis vox una tonat: Miserere precanti.
+189	Tunc pius antistes, genibus profusus in arvis,
+190	Sternitur ante oculos Domini, pro plebe satagens,
+191	Ut mereretur ovem, per quam grex plurimus esset.
+192	Annuit Omnipotens; famulo dans culmen honorum.
+193	Mox bonus ore preces orator misit in aures:
+194	Ordine deposito, postquam se oratio complet,
+195	Erigitur senior, simul infans vivificatur,
+196	Porrigiturque suae populo sub teste mamillae.
+197	Fit fragor, et populi nova pectore vota volutant,
+198	Mirantes hominem laete mutasse vigorem;
+199	Et qui in morte manet, morti sua iura tulisse.
+200	Inde catervatim Christum, Dominumque, Deumque,
+201	Confessi, exorant fieri se lege beatos.
+202	Fit subito in campos populus catechumenus omnis.
+203	Non templa exspectat, nec claustra dicata sacelli,
+204	Ecclesiaeque typum campus generosior explet,
+205	Quodque solet tectis, pratis adhibetur apertis.
+206	Unica mors pueri sic vitae parturit agmen,
+207	Dumque unus terrae rediit, plebs astra recepit;
+208	Sub duce Martino felix exercitus hic est.
+209	Dum regeret princeps data iura Valentinianus,
+210	Romuleis opibus mundo famulante, superbus,
+211	Tum pia causa sacrum ad comitatum compulit ire,
+212	Quem quia praesensit se posci talia Caesar,
+213	Quae nollet praestare viro, iubet arce repelli,
+214	Et vetat a foribus, penetrare palatia iustum.
+215	Instat ad haec uxor, cui tunc erat Arrius auctor.
+216	Sed sacer ut vidit tali se fraude repelli,
+217	Hinc aula exclusus, redit arma domestica sumens,
+218	Contegitur setis, respergitur atque favillis,
+219	Ordine miles agens, removet potumque cibumque,
+220	Nocte dieque vacans orandi iugiter usu.
+221	Septimus ergo dies aderat, quo sanctus amore,
+222	Fortia castra movens, his desudabat in armis.
+223	Angelus assistens iubet ire palatia iustum,
+224	Fretus in auxilio Martinus pergit ad arcem,
+225	Limine nullus obest, ad principis ora perintrat,
+226	Qui sanctum inspiciens quod adesset, frenduit ore,
+227	Atque astante pio, solio neque surgit ab alto.
+228	Regalem sellam mox ignibus ardor oberrat,
+229	Et vaga flamma natat, qua molle sedile coruscat,
+230	Undique fusa, furens, sed culpae Caesaris utrix,
+231	Cervicis durae solvens ardore rigorem.
+232	Inde flagella coquunt, hinc regem incendia caedunt.
+233	Vapulat et rapinis flammis augusta potestas;
+234	Hinc celer exsiliit rapiens se Caesar, et ardens,
+235	Martini genua amplectens pedibusque volutans.
+236	Sicque superbum hominem se agnoscere poena coegit,
+237	Vilia regna probans, et celsa cacumina curvans,
+238	Imperiale caput sancti ad vestigia subdens.
+239	Nec spectare preces patitur reverentia iusti;
+240	Praestitit ante tumens quam supplex danda rogasset;
+241	Regia rite parans convivia saepe beato;
+242	Obtulit inde favens abeunti munera princeps:
+243	Paupertate potens sed reppulit omnia sanctus,
+244	Donaque despiciens, meruit plus principe ab ipso,
+245	Tantum maius habens quantum minus ambit avarus.
+246	Omnia sunt soli qui nulla requirit habendi.
+247	Hinc quoque Romuleam regeret cum Maximus arcem,
+248	Vir capiens apicem per publica gesta triumphis:
+249	Saepius hic sanctum per celsa palatia duxit;
+250	Hoc toto sermone loquens de luce futura:
+251	Quis sit honor iustis laus gloria, palma, corona;
+252	Nec regina pedes cessat lacrymosa rigare,
+253	Sternens membra solo, suspendens gaudia voto:
+254	Inde precatur ovans, convivia ut ipsa pararet;
+255	Obtinet hoc bonitas quod non valet alta potestas:
+256	Ipsa manu sellam posuit, mensamque paravit,
+257	Dans manibus lymphas, rursus regina ministrat
+258	Laeta, modesta suis palmis quas coxerat escas:
+259	Quo residente sacro, stetit illa immobile planta:
+260	Fercula subducens, et pocula porrigit ipsa,
+261	Una ministra viro suffecit ad omnia soli.
+262	Coenula finitur, sed adhuc regina satagit,
+263	Fragmina, reliquias, crustas, et frusta recondens;
+264	Omnia praeponens haec imperialibus escis.
+265	Hoc Martinus agit, quo clausos carcere laxet,
+266	Exsilio ductos, laribusque reducat avitis,
+267	Sed tibi, sancte pater, minus est, Augusta quod explet,
+268	Hoc magis obsequio crevit regina peracto.
+269	Est locus in Turonum fine et confine Biturgum,
+270	Incola quem vicum vocitavit Claudiomagum,
+271	Mansio forte fuit Martino praetereunti,
+272	Ecclesiae Domini qua secretaria pollent;
+273	Virgineisque choris sancto abscedente, requirunt,
+274	Quo stetit, aut sedit, iacuit genua atque reflexit;
+275	Lambunt cuncta simul, vel ad oscula singula ducunt.
+276	Divisere sui veneranda stramina lecti,
+277	Atque leves paleas virtutis pondere pensant,
+278	Quam tetigit stipulam sanctus, non ibat inanis.
+279	Denique post fragilis confregit fortia culmus.
+280	Nam graviter quemdam rabies invaserat hostis,
+281	Et truculentus agens erroris spiritus iret,
+282	Dum rapiendo rotat vesano cardine praedam,
+283	Hunc suspensa viri collo festuca fugavit,
+284	Immanemque hostem palearis arista removit.
+285	Tibia, fruge ferax, larvam iaculata, sagittat,
+286	Et stipula exilis, quasi dura phalarica fixit.
+287	Nec sic ullius ferri expavisset acumen,
+288	Spicula nec tantum timuisset, missa per arcum,
+289	Lubrica pennigero venientia tela volatu,
+290	Parthica seu timidum si transfodisset arundo,
+291	Plaga ut vicino gravius lacerasset ab ictu,
+292	Stramina sic metuit trepidans adamantinus hostis,
+293	Ac velut ex stipulis coqueret se flamma camini,
+294	Vir stetit incolumis, fugiente volucriter umbra
+295	Deserit et praedam lupus ingens, et leo frendens
+296	Inde revertenti Trevirorum ex urbe beato,
+297	Obvia forte datur medio fera buccula campo;
+298	Quam daemon dorso incumbens agitabat anhelo,
+299	Pendulus aerio quatiens auriga flagello,
+300	Pestifer arte nova, cursu bove nempe verendo,
+301	Cornigeri pecudis propulsor mulio tristis
+302	Exagitatur iners, residens per terga bubulcus.
+303	Hic ubi millimodas animalis adegerat iras,
+304	Ibat ubique ferus, furibunda iuvenca ministro,
+305	Sub tortore gravi per curva, per invia cursans,
+306	Accessit propius sancto furiatile cornu,
+307	Elataque manu pecudem consistere mandat:
+308	Quae stetit affixo, minus improba, buccula gressu;
+309	Quem sacer instantem mox vidit, comminus, inquit,
+310	Perge ferox, fuge saeve, redi male, cede cruente,
+311	Innocuam pecudem desiste agitare nocive.
+312	Tunc animalis enim linquit fera bellua tergum;
+313	Et recipit proprium mitissima buccula sensum.
+314	Sternitur ante pedes sancti, veneranter adorans,
+315	Flexit et ipsa genu quae non habet intellectum,
+316	Contra naturam discernens gesta beati.
+317	Obsequiumque dedit meriti quae nescit honorem,
+318	Inde magis humilis, quia libera colla gerebat.
+319	Ante ligata tumens, a peste soluta reclinis;
+320	Quae stetit ore fremens, cecidit post vincula supplex,
+321	Et sine voce favet, armo iactata priore.
+322	Tum sacer antistes pecudem praecepit abire;
+323	Moxque gregem repetit, pastoris voce revincta.
+324	Id gestum est illo sub tempore, quando beati
+325	Per medias flammas nec fimbria senserat ignis.
+326	De minimis etiam referantur maxima rerum.
+327	Tempore nam quodam, dum vicos ambulat almus;
+328	Obvia, venandi studio, volat agmen equorum,
+329	Nare sagace canum, fit praeda, reperta frutetis:
+330	Transiliunt campos equites et voce sequuntur:
+331	Intendunt leporem fugitivum agitare molossi,
+332	Saltibus excussi, latratu et dente minaci,
+333	Diffusi excurrunt, celeres in amore rapinae,
+334	Alter in alterius miscent vestigia saltus;
+335	Iste sequax tacitus, petit hic clamoribus auras,
+336	Hic frutice in vacuo delusus odore rotatur,
+337	Motibus arboreis saltu suspenditur alter,
+338	Captu ex unius cunctorum frendet hiatus,
+339	Saepe super leporem morsu deceptus inani,
+340	Unguibus iniectis dum praeda volubilis exit.
+341	Ac se turba premit, sic lubrica bestola fugit.
+342	Non erat interea quo calle lepusculus iret;
+343	Mons, vallis, petra, sylva, frutex defecerat omnis,
+344	Per patulos campos, fugienti tegmine nudo,
+345	Poplite defecto, pede lasso, nare recliva:
+346	Totus ab ore canis, per singula murmura, pendens,
+347	Sensit adesse tamen Martini signa beati,
+348	Flexit iter trepidus hirsutas fraude per herbas,
+349	Auribus acclivis, vagus, exagitatus, anhelus;
+350	Corruit ante pedes titubans lepus, advena supplex,
+351	Si non voce potest, flatu pro voce precatur,
+352	Sic fera parva iacet, Martini tegmine tuta,
+353	Et recubat dulci defensa sub arboris umbra.
+354	Tunc sacer ex solito miseratus more salubri,
+355	Imperat ut catuli cessent, abeunte fugace.
+356	At sacer ille canum mox sermo cucurrit in aures.
+357	Torpescunt habiles, verbo figente, lyciscae,
+358	Gressibus instabiles, pendentes saltibus ipsis,
+359	Et rediere canes quasi per vestigia cancri;
+360	Effugit incolumis per aperta lepusculus arva,
+361	Et cane seposito, tutus terit alta viator.
+362	Hic fugit, ille redit, nullus perit, ecce salutem;
+363	Sic quoque bestiolis pacem sacer intulit ipsis;
+364	Debilitasque canum facta est pietatis imago,
+365	Qui potius vetito didicerunt parcere morsu;
+366	Et quia defuerant homines, ubi mira facessit,
+367	Nil de laude perit, miracula bestia sensit.
+368	Quanta etiam sancti sermonis gratia fulsit?
+369	Qui cum nuper ovem vidisset vellere tonsam,
+370	Haec Evangelii, dicens, mandata peregit:
+371	Namque duas tunicas gestans, unam obtulit insons
+372	Et nudata suo de tegmine texit egentem.
+373	Inspiciens itidem sanctus per rura subulcum,
+374	Nudum pellicea tantum sub veste trementem,
+375	Ecce Adam, quondam paradisi sede repulsus:
+376	Exsul ab Elysio, pascit gregis ora suilli:
+377	Deposito veteris Adam carnalis amictu,
+378	Adam nempe novi nos induere instar oportet.
+379	Hinc iterum cernens vernantia prata beatus,
+380	Pars pastus, pars fossus erat, pars floreus agger.
+381	Sed sue confossus, bove pastus, flore comatus.
+382	Comparat ergo tribus sanctus tria nomina rebus:
+383	Turpis adulterii species est fossa carectis:
+384	Herbaque coniugii retinet detonsa figuram.
+385	Est par virginibus violis quae vernat imago,
+386	Herbis luxurians, feno apta, et flore decora.
+387	Digna Deo, gemmis grata, et radiantior ostro.
+388	Miles autem monachum professus, singula linquens,
+389	Coniuge cum propria cuperet quia degere vitam,
+390	Mutavit, meliore via, transcurrere metam,
+391	Iure sacerdotis monitor, hoc ordine discens:
+392	Belligeratori valeat ne femina iungi?
+393	Sola aciem melius componit mascula virtus,
+394	Debilior teneat murorum claustra caterva,
+395	Et sexus fragilis sese intra septa recondat:
+396	Hoc satis, ut mulier timeat, res ipsa timori.
+397	Miles ad arma potens pergat galeatus in agmen,
+398	Loricae triplicis squamma radiante coruscus,
+399	Thoraca ex humeris indutus, nixus in hasta:
+400	Assuetus clypeo, transmittens vulnus ab arcu.
+401	Hinc capulum vibrans, hinc torquens missile telum,
+402	Ferratae tunicae rivos sub pondere sudans.
+403	His dictis mulcens iuvenem resipiscere cogit,
+404	Coniuge postposita, et repetit eremita coronam:
+405	Iugiter interea quia falsa et sancta canebat,
+406	Nec serie recipi, neque possunt scripta teneri.
+407	Quaenam vita sacri fuerit, quis singula currat?
+408	Quanta fides animi, quam celsa et pura voluntas,
+409	Ad quem non solum homines longo orbe venirent,
+410	Verum etiam coelestis honor visebat amanter,
+411	Angelicusque chorus properabat ad ora frequenter,
+412	Colloquiis placidis ut fessum animaret amicum,
+413	Et quasi complexum recreet per verba parentem:
+414	Res probat ista sequens, quae gesta priora renarrat.
+415	Concilium allectum fuerat synodale Nemausum,
+416	Quo sacer antistes mediator adesse recusat.
+417	Ergo ratem scandens celerem, parat ire per amnem,
+418	Coetibus in mediis habitans eremita remotus,
+419	Ipse in puppe sedens: cunctos sua prora sequestrat,
+420	Angelus ecce tamen Domini venit aliger alto,
+421	Ipsa nempe die qua se conventus abegit,
+422	Quidquid pontifices celebrabant ordine narrans,
+423	Pro vice Martini peragens synodalia praesens,
+424	Atque sui cura longinqua per aera tranat:
+425	Quem, pendente via, nec in aera penna fatigat,
+426	Sed natat ala celer, donec nova nuntia portet.
+427	Quae mandat Dominus nihil absconsurus amico,
+428	Utque prius retulit sacer, haec post cuncta probavit:
+429	Nec frangunt praedicta fidem, neque prodita fallunt.
+430	Accidit hinc demum, foribus sedente Severo,
+431	Compare cum Gallo, doctis et amore ministris;
+432	Murmure multivago completur cella beati:
+433	Ostia clausa tenens, diei geminante sub hora,
+434	Audivere loqui, sed quid? nescire fatentur:
+435	Senserunt strepitum, neque verba loquacia norunt,
+436	Pars fuit haec meriti, vel sic sensisse superna.
+437	Agnita si non sunt, satis est audita mereri.
+438	Post sacer egrediens cellam, maiore Severo
+439	Sulpitio poscente diu, quae gesta fuissent,
+440	Vix motus precibus, tandem rem ex ordine pandit:
+441	Indicat hic Agnem, Teclam Mariamque locutam,
+442	Sanctarum exponens vultus habitumque beatus,
+443	Quae facies, oculi, gena, pes, manus, arca, figura,
+444	Lumine tam puro vidit saepe ora sororum.
+445	Quis color atque decus, quae forma et gratia quanta,
+446	Et sermone pari placidam dixisse salutem.
+447	Hic petit ad fratres, illae petiere sorores:
+448	Sed redit iste gradu, illae nam rediere volatu.
+449	Culmen apostolicum, celsas et honore columnas,
+450	Saepe Petrum meruit Paulumque videre licenter.
+451	Daemonicas etiam tolerans saepissime pugnas,
+452	Nomine quemque suo increpitans cogebat abire,
+453	Maxime Mercurium infestum referebat adesse,
+454	Brutum namque Iovem et hebetem memorabat haberi.
+455	O sinceri oculi, nulla caligine pressi,
+456	Mens radiata sopho, retinens sine nube serenum!
+457	Inspicis aeriam carnali lumine Teclam:
+458	Atque vides Agnem, redimita fronte corona,
+459	Cernis et egregiam pretiosa luce Mariam.
+460	Vidisti templum Domini diademate fultum,
+461	Vidisti thalamum sponsi, super omnia pulchri,
+462	Compositum gemmis, auroque, ostroque decorum;
+463	Qualis iaspis erat pedibus, laterique topazus.
+464	Qui digitis anuli, viridi fulgore venusti?
+465	Quales armillae, dextra ardescente hyacintho?
+466	Quanta zona die lapidum radiabat honore?
+467	Cycladis aut qualis cataclistis effora rasis?
+468	Quae palla ex humeris, mixto chrysopraso beryllis?
+469	Quodve monile decens collo rutilabat in illo?
+470	Forsan erat niveis amethystina vitta capillis,
+471	Sculptilis impressis et inauribus alta sigillis;
+472	Luminis ac varios spargens diadema virores.
+473	Quae frons, ora, oculi, facies, gena, pes, manus, ulna,
+474	Inde repercussis florebant gramina gemmis?
+475	Sic bone pastor, ovi quae fabula vestra cucurrit?
+476	Quid rogo, quando Petrum ac Paulum tam saepe videbas,
+477	Prima ministerii radiantia vasa superni,
+478	Aurea, pulchra nimis, gemmata, venusta, corusca
+479	Illa putas quanto radiabant ora sereno?
+480	Dogmata quae Christi totum sparsere per orbem,
+481	Quae dixere prius: Tu es Christus Filius almi,
+482	Altithronique Dei dominantis, et omnipotentis,
+483	Ac super hac petra fundata Ecclesia regnat,
+484	Quam nec flabra movent, neque vertit turbo procellae,
+485	Nec trahit undivagam pluvialibus imber arenam.
+486	Haec quia viva tenet petra fundamenta salutis;
+487	Contra quam portae inferni nunquam arma valebunt.
+488	Quid sacer ille simul Paulus, tuba gentibus ampla?
+489	Per mare, per terras Christi praeconia fundens,
+490	Europam, atque Asiam Lybiam sale, dogmate complens;
+491	Et qua sol radiis tendit, stylus ille cucurrit,
+492	Arctos, meridies, hinc plenus vesper et ortus:
+493	Transit et Oceanum, vel qua facit insula portum;
+494	Quasque Britannus habet terras, atque ultima Thyle,
+495	Buccina concrepuit regiones una per omnes;
+496	Dogmate tantorum, Christi data munera pangit,
+497	Hebraeus, Graecus, Romanus, Barbarus, Indus,
+498	Israelita canit, simul Atticus, atque Quiritis?
+499	Principibus geminis fidei sub principe Roma,
+500	Carnis apostolicae quo sunt duo celsa sepulcra.
+501	Prima tenet terris, et utrique priora supernis,
+502	Dogmatis ore pares, et sedis honore curiles;
+503	Ambo triumphantes spargunt nova dona per orbem,
+504	Una nempe die quos passio sancta beavit,
+505	Et sacra sic geminus signavit tempora consul:
+506	Queis splendor paribus rutilabat ab ore coruscus.
+507	Lucifer in radiis premeretur vultibus illis,
+508	Quippe nec ipsa micat tantum rota fulgida solis.
+509	O dulces oculi, facies cernendo Beatas,
+510	Vidistis Sion, speciosas ordine portas;
+511	Vidistis Sion, ternas quater ordine portas;
+512	Quas amat omnipotens ultra omnia culmina Iacob,
+513	Gemmarum vario redimitas lumine valvas,
+514	Sculptas bracteolis, inscriptas arte smaragdis,
+515	Chrysolithis rutilas, niveas stillantibus albis;
+516	Quidquid amor potuit, quo totum gratia fudit.
+517	Omnicolorque decens et in omnibus una topazus:
+518	Per quas huic populi genus illud nobile regni,
+519	Intrat sideream, meritorum gressibus, urbem,
+520	Et sine fine manent conscripti in saecula cives;
+521	Inter quos proceres, et culmina celsa potentum,
+522	Patriciis mixtus generosis, consulibusque,
+523	Proximus et regi resides, Martine, senator.
+524	Cui dedit arma fides, et cui fiducia rex est;
+525	Miles amore cliens, et factus honore cohaeres,
+526	Qui potes ore, mei veniam deposce reatus:
+527	Et vitiata tibi quod lingua remurmurat, audi,
+528	Ut de fonte pio fluat indulgentia laeso,
+529	Ac te orante, sacer, redeat medicata cicatrix.
+
+LIBER QUARTUS 
+
+1	Post mare fluctivagum repetens ad littora portum,
+2	Floribus albicomis dum lilia pollice carpo,
+3	Ungue recido rosas et per violaria curro,
+4	Ruris amoeniferi varios situs inter odores,
+5	Obripit inde sopor; fessus quoque colla reclino,
+6	Fultaque gramineo iacuerunt membra grabato,
+7	Sed redit ecce dies, et iam lucescit, eundum est,
+8	Dum matutino nos ore salutat hirundo,
+9	Ac se nocte brevi celerata crepuscula rumpunt,
+10	Quo torpore natent quamvis mea lumina, surgam;
+11	Evigilansque oculis detergam pollice somnum,
+12	Et quod iter repeti Gallus vocat, ibo, sodales.
+13	Fluctibus in trifidis ignarus nauta libellis,
+14	Ac velut ambiguas inter Symplegadis undas
+15	Ionii Aegei, Maleique sequace procella;
+16	Me tamen in bibulis ne mergeret Auster arenis,
+17	Summa gubernavit Martini vita patroni,
+18	Quam nitor scabridis indignus carpere verbis,
+19	Rusticus, arte rudis, tentans formare monile,
+20	Quod nec lima polit, nec malleus addit acumen,
+21	Non incudo terit, fornaxque examinat igne,
+22	Nec mordax gemino forceps trutinavit obunco,
+23	Sed magis incomptum profert mea lingua metallum;
+24	Res tamen illa iuvat sine qualibet ullius arte,
+25	Quod per se pulchram praefert sua gratia gemmam,
+26	Attamen officii quae restant debita solvam;
+27	Et cui magna nimis modo debeo, parva rependo,
+28	Carnotis interea genitam pater anxius aegram,
+29	Ex utero mutam profert, sacro ore medendam:
+30	Sex geminos graviter hebetem sine voce per annos.
+31	Nec differt Martinus opem pietatis amicam;
+32	Sternitur ergo solo, tacitus prece sidera pulsans,
+33	Corpore fusus humi, volitans super aethera sensu;
+34	Sensit ut effectum fidei meruisse precatu,
+35	Sanctificaturum ferri sibi poscit olivum,
+36	Infunditque ori benedictum fruge liquorem;
+37	Atque tenens digito linguam miserando puellae,
+38	Ipse patris nomen geniale requirit alumnae;
+39	Mox resoluta movet faucis lyra tinnula plectrum.
+40	Atque insueta canit camerati concha palati,
+41	Dente relisa cavo producens verba fritillo,
+42	Responditque patris nomen pia filia dulce.
+43	Ventre prius genita, hic visa est quasi voce renata;
+44	Reddit adulta, vetus lactantes ore susurros,
+45	Incipiens tenero proscindere verba rotatu;
+46	Motu pigra rudi decurrens lingua gradatim,
+47	Implicito sonitu, rauca novitate, cicuta,
+48	Donec plena suo cecinit symphonia flatu.
+49	Tum genitor genua amplectens veneranda beati,
+50	Vociferans, et voce data, sua gaudia plorans,
+51	Laetitiae voto reboat praeconia Christo.
+52	Iudicis inde feri coniux aegra Avitiani,
+53	Dirigit ad sanctum, morbi sperando medellam,
+54	Vas olei vitreum, lance aequa dimidiatum,
+55	Unde salutifero depelleret unguine morbum.
+56	Mox super ampullam fecit crucis ipse sigillum,
+57	Surgit ad ora liquor, spumansque exaestuat unguem,
+58	Ubertate nova vitreo sub cortice obortum,
+59	Et vase in sicco generosus nascitur humor;
+60	Currit in ascensum, qui vergere novit ad imum,
+61	Fluxibus et liquidis olei petit alveus altum;
+62	Sed quem non genuit radix oleagina succum,
+63	Nec Syrabracha dedit merito virtutis adulto,
+64	Crescit et ad summum, patulo qua clauditur ore,
+65	Nec contentus agit liquor ut vas expleat illud,
+66	Nam cumulata olei mox defluit unda superne,
+67	Nec sese urna capit; tanta est benedictio dextrae,
+68	Exundansque omnes pueri madefecit amictus.
+69	Et digiti de fonte rigans manavit olivum:
+70	Ac postquam irrigue fluviali more cucurrit,
+71	Vas plenum fidei merito matrona recepit.
+72	Nec minus inde subit rerum admiratio facti,
+73	Idem vas vitreum benedictum nobile reddens,
+74	Cum puer incautus posuisset in ore fenestrae,
+75	Ut pote carbaseo venerans velamine tectum,
+76	Lintea dum retrahit fluitantia nescius alter,
+77	Lapsa pavimento ampulla stat marmore tenso,
+78	Sed nec saxa vitrum perdunt nec vasa liquorem:
+79	Integra servatur, volitans quasi pensile pluma.
+80	Aut subvecta levis geminis descenderet alis;
+81	Nullaque rima patet, nec facta in vase cicatrix,
+82	Sic liquor interius facit exteriora tueri,
+83	Et quem tutari decuit, sua tegmina texit,
+84	Ne vitra depereant, olei custodia servat,
+85	Inclususque humor proprium defendit amictum,
+86	Ac fragmen fragile statuit benedictio forte.
+87	Cuius discipuli pariter dum comminus irent,
+88	Et canis horrificus latratu insisteret amplo;
+89	Unus amore pio, Martini in nomine, dicit,
+90	Praecipio, taceas, nec nos clamore fatiges,
+91	Mox praecisa canis rabidi vox ore pependit,
+92	Clamoremque vagum media de fauce resorbet;
+93	Et fragor ille ferox avido sub gutture obhaesit,
+94	Stans rictu stupido frenata voce molossus,
+95	Cum furor urgeret, quia se nec hiare liceret,
+96	Sic redit incluso tremula sine voce susurro,
+97	Profuit et nomen sancti, quo defuit ore.
+98	Ergo iter incoeptum lento pede pergere tendam,
+99	Dum licet ire viam, dum me vocat aura salubris
+100	Et trahit hora dies vestigia tarda moventem.
+101	Moribus ut tumidus comes Avitianus agebat,
+102	Terribile officio Toronos suffultus adivit.
+103	Agmina conveniunt, et longa catena reorum,
+104	Accrescente coma, quorum caro tota fluebat:
+105	Et consumpta arctum laxabat brachia ferrum,
+106	Confecta macie vix declarante figuram,
+107	Poenarum genus ipse iubet plus more parari;
+108	Deflentem videas populum spatiare per urbem,
+109	Indixitque nefas processu ad triste tribunal,
+110	Unde truces oculi spectarent membra cremari,
+111	Comperit ut sanctus feralia iussa satagi,
+112	Tempore sub noctis saeva ad praetoria tendit,
+113	Et pietatis iter solus parat ire viator.
+114	Pervenit ut senior gressu miseranter anhelo;
+115	Sternitur ante fores, per limina dira benignus,
+116	Qua recubat iudex, torpente sopore sepultus.
+117	Angelus interea penetrat mox aliger aulam,
+118	Intonat et comiti dormitanti ore minaci:
+119	Te sopor hic retinet, Martinus stat foris, inquit,
+120	Tu requie frueris, et sustinet ille labores:
+121	Molliter ipse toro, iacet ille in marmore diro.
+122	Excutitur trepidus mox ex somno Avitianus,
+123	Martinum exclamans, foribus recubare sacratum:
+124	Imperat et famulis reserent ut claustra beato,
+125	Ne servum Christi venerandum iniuria vexet.
+126	Hinc famuli illudunt domino, crepitante cachinno,
+127	Dicentes stupidi se somnia vana videre:
+128	Pro foribus nullum residere vel esse virorum.
+129	Rursus praecipiti premitur somno Avitianus;
+130	Angelus inde virum violentior excitat urgens,
+131	Concutit et graviter ne cederet ipse sopori;
+132	Territus hinc iudex, ultra neque credulus ulli,
+133	Postpositis famulis, celer ad sua limina pergit:
+134	Atque ibi Martinum reperit, ceu senserat olim,
+135	Tunc ferus alloquitur sanctum, his vocibus, ultro:
+136	Quid Martine, mihi facis hoc, venerande sacerdos?
+137	Non mecum aequali, fateor, certamine pugnas,
+138	Absolvendo reos venis, et me verbere torques.
+139	An me pro cunctis poenas absolvere mavis,
+140	Eligis aut facinus, mea per tormenta pacisci?
+141	Sub tortore novo mutantur tempora caedis:
+142	Poena diurna reos cruciat, me nocte fatigas.
+143	Serve Dei, patuit, quam sit tibi celsa potestas,
+144	Quando flagellatur graviter, te iudice, iudex.
+145	Hinc tamen ipse probas, mecum sit qualiter actum:
+146	Cum per me venio, nec amicum, nec rogo servum;
+147	Non patitur differre moras, quem poena coercet:
+148	Nil opus est verbis tacito te, nosco quod optas;
+149	Cede, precor, discede loco, concede quod oro,
+150	Nec tua me graviter cito puniat ultio vindex.
+151	Haec ait, et propero pede, discedente patrono,
+152	Avitianus, inops animi, vocat officiales,
+153	Et reserare iubet tormenta, ergastula, claustra,
+154	Cumque relaxasset, procul ipse recessit ab urbe.
+155	Et gravis ira fugit, sibi fit timor ipse timori;
+156	Ordine perverso et pacem fuga iudicis auget,
+157	Ac sine caede lupum, salvo grege, pastor abegit.
+158	Quique monasterio quotiens properaret ad urbem,
+159	Sive pedem cellae foris adveniendo tulisset,
+160	Agmina larvarum trepidabant ore, rotatu,
+161	Et cum nescirent populi adventare patronum,
+162	Designabatur gemitu quoque daemoniorum.
+163	Propitiante sacro, pendentia membra videres,
+164	In sublime procul sublata per aera duci.
+165	Ast alios, pedibus superactis, vertit in altum,
+166	Et caput inferius, veluti de nube ruentes:
+167	Nec tamen his vestes fluerent, verecunda tegentes:
+168	Crimina vel merita edentes, sub iudice missi,
+169	Et sua praecipites examine facta fatentes:
+170	Ille Iovem stolidum, hic se fateatur Anubem,
+171	Vasa ministerii se daemonis esse nefandi:
+172	Sed tortore pio feritas cruciata fugatur.
+173	Nunc etiam Senonum pago quid gesserit, edam.
+174	Cum compacta gelu premeret sata grando quot annis.
+175	Cultoremque seges defraudaretur inanis.
+176	Nec messoris opus flavescens spica rogaret,
+177	Agricolaeque manum tritura vetaret adempta,
+178	Incola maturis totiens deceptus aristis,
+179	Cum ieiuna suo torperent iugera sulco,
+180	Ac lapidata cibum populis seges aegra negaret,
+181	Mittitur ad sanctum legatio fida precatu,
+182	Ut removeret humo furibunda procella flagellum;
+183	Celsa viri quae mox oratio sola peregit.
+184	Nam statim atque preces fudit bonus ore sacerdos,
+185	Tempestate graves siccarunt nubila nimbos,
+186	Et viduae segetes se fertilitate maritant.
+187	Quaeque quater quinos, per quos super exstitit annos,
+188	Intemerata sacri viguerunt dona patroni.
+189	Vir tamen ipse Dei ut sublatus ad astra recessit,
+190	Oblitae incubuit rediviva procella rapinae,
+191	Praesule subducto vastat fera clades agellum,
+192	Ac male captivas imber populatur aristas:
+193	Defensorque obit, et mox praedam grando requirit,
+194	Martini abscessu repetunt elementa flagellum.
+195	Vir quoque iustus item cum occurreret Avitiano,
+196	Aspicit instantem huic saevi daemonis umbram,
+197	Horrificam faciem, truculentam corpore pestem;
+198	Quam procul intendens sanctus, flatu oris abegit.
+199	Iudex dum in seipsum putat exsufflasse beatum.
+200	Cur, bone pastor, ait, tua nos iniuria vexat,
+201	Indignosque facit despectio flatilis aurae?
+202	Quem pater egregius responso affatur amico;
+203	Haec tibi non facimus probrosi sorte reatus,
+204	Sed, male quae incubuit cervici, flavimus umbrae;
+205	Mox tamen illa fugit subsellia larva, satelles,
+206	Et cervice sedens invasa sedilia liquit,
+207	Libertate nova surgunt colla Avitiani.
+208	Exoneratus enim iudex revocatur honori,
+209	Mitior atque fuit, gravis, implacabilis olim.
+210	Mirum aliud vico quod contigit Ambaciensi.
+211	Idola turrito fuerant educta metallo,
+212	Eximie saxis moles onerata politis,
+213	In sublime thronum procedens aede superba,
+214	Falsa superstitio, deceptio vera precantum,
+215	Grande opus ad facinus, faciens nihil esse colentes;
+216	Quod dum sanctus ovans mandasset rite, ruendam,
+217	Humanis opibus neque hoc avelleret ullus,
+218	Tum sacer antistes assueta per arma recurrens,
+219	Pervigil insistens nocturnis excubat horis,
+220	Alloquiis Domini taciturna silentia rumpens.
+221	Sed cum mane recens auroram spargeret orbi,
+222	Tenderet et croceum per nubila Phoebus amictum,
+223	Ecce repens oritur, variante fragore, procella,
+224	Stridula sidereo volitatu, et multa tumultu,
+225	Auxiliis fremebunda tuis, Martine, satagens,
+226	Et tua castra movens, armata ferocibus austris:
+227	Quae fanum ut tetigit, rapidae vertiginis ictu,
+228	Impulit ac fabricam, furibundo impacta rotatu,
+229	Idola comminuit, molemque in pulvere solvit;
+230	Altaque turrigero ceciderunt moenia fastu.
+231	O sacer antistes, dulce et memorabile nomen,
+232	Quis se non subdat tibi, pro quo et nubila pugnant?
+233	Haec quoque mira loquar, parili virtute peracta.
+234	Stabat celsa, rigens, informis, forma columnae.
+235	Immanis habitu, tractu insuperabilis amplo;
+236	Quae superimpositum simulacrum hostile gerebat.
+237	Quam pius ut voluit, valuit neque solvere molem,
+238	Rursus ad orandi victricia signa cucurrit;
+239	Belliger eliciens ad se arma potentia coelis.
+240	Stratus humo recubans, precibus supra astra relatus,
+241	Quo exorante diu, multoque in pulvere fuso,
+242	Coelitus est oculis descendere visa columna,
+243	Molliter aerio disulcans nubila lapsu,
+244	Quae molem oppositam ut vibrato perculit ictu,
+245	Fragmine dissiluit compago soluta columnae;
+246	Laxaque disperso fregit simulacra metallo;
+247	Et mentita novo feriuntur numina telo,
+248	Falsa quidem veram sumentia numinis iram:
+249	Quae subversa suis genuerunt lucra ruinis,
+250	Ac resoluta feris creverunt templa favillis.
+251	Pandere quin etiam decet illud honore beati.
+252	Pallida cum mulier stillante rubore cruoris,
+253	Cuius se irriguo siccarunt viscera fluxu,
+254	Naufraga membra trahens secum vaga sanguinis unda,
+255	Tempestate suae pluviae defessa laborans,
+256	Ipsa sibi generans secreti turbinis imbres,
+257	Fluctibus et propriis iam submersura ruebat,
+258	Nec super ullus erat portus sibi, norma salutis;
+259	Cui semel ut tacta est benedicti fimbria fili,
+260	Nobilis ac summi palpantur stamina panni,
+261	Exsilit inde salus, digitos prius unguine complens,
+262	Transit in arcanum fiducia tanta medelae;
+263	Protinus irrigui siccatur origo fluenti,
+264	Prona etiam patulos damnantur fistula cursus,
+265	Et restricta fluens redit insonti unda cruoris.
+266	Assidui fluxus fugiens cava vana meatus,
+267	Veste sacra medici solidantur glutine rivi,
+268	Et virtute viri senserunt frena liquores,
+269	Incolumisque redit de furto femina felix,
+270	Atque salutis opem, medico ignorante, resumpsit,
+271	O Martine sacer, nescis, et munera donas.
+272	Inde procul gressum celerans antistes abibat;
+273	Obvius ecce venit serpens adnando per amnem,
+274	Pectoris impulsu sulcans vaga remige cauda,
+275	Squammea terga movens, spiris vada caerula findens;
+276	Quem sacer inspiciens, ait haec in nomine Christi:
+277	Impero dira tibi, pete cursum, bestia, retro.
+278	Quae procul in fluvium sinuamina lenta reflexit,
+279	Atque retorsit iter mox sarcina tanta veneni,
+280	Inde petit bibulas ripae ulterioris arenas,
+281	Gurgite lapsa natans, totasque renavigat undas,
+282	Obsequiis famulans, et vipera perdidit iras,
+283	Imperiis iusti nec iniqua venena repugnant.
+284	Forte dies aderant paschalia festa gerentes,
+285	In quibus antistes partem quoque piscis edebat,
+286	Addebatque bonus tum fercula, reptile gustu,
+287	Sollicitat monachos si copia piscis adesset;
+288	Respondit, cui cura foret commissa, minister,
+289	Se toto piscante die captura negasse:
+290	Nil valuisse hamum, setis ab arundine iactum;
+291	Nec potuisse aliquam vel retia ducere praedam.
+292	Cui constanter ais, placido moderamine pastor,
+293	Perge modo ad fluvium, tibi nec captura negatur.
+294	Artificem spes certa movet, petit impiger amnem,
+295	Implentur pariter monachorum examine ripae,
+296	Ut sacra Martini spectarent dicta prophetae,
+297	Quem scirent non cassa loqui, neque verba refelli;
+298	Proiicit ut fluvio cassem de puppe magister,
+299	Molliter ac vitreo Ligeri trahit humida lina,
+300	Mox ingentem esocem modico sub rete coercet;
+301	Et trahitur cognatus aquis ad littora piscis,
+302	Non rete artificis, sed Martini ore ligatus;
+303	Usibus et sancti se praeda natatilis offert,
+304	Tali morte magis vitae pro munere currens.
+305	Nobile quin etiam ex praefecto Arborius effert:
+306	Signum, quod vidit, se teste, fidelis in urbe:
+307	Immaculata Deo cum dona imponeret arae,
+308	Et pater attonitus ceremonia diva sacraret,
+309	Munera vel Christi benediceret ore sacerdos,
+310	Imposita altari rata corporis atque cruoris,
+311	Emicuit subito manus alma decore superbo,
+312	Nobilium vario lapidum splendore coruscans.
+313	Undique visa rotae spargens radiatile lumen,
+314	Brachia purpureis vibrantia fulgura gemmis,
+315	Lumen et ad solis radians, lux fulva metallis,
+316	Credula quo potius fierent miracula rerum.
+317	Vir simul ipse potens se tunc Arborius inquit,
+318	Gemmarum gravium crepitantem audisse fragorem;
+319	Sic geminante fide iusti via dextera fulsit,
+320	Inque loco manicae micuit translata smaragdus.
+321	O Martine decens, lapidum velamine compte,
+322	Quam nova palla tibi, cuius textura coruscans,
+323	Trama topazus erat rutilans, et stamen iaspis,
+324	Et tunicae insignes currunt pro vellere gemmae.
+325	Quae manus artificis cataclistica fila rotavit?
+326	Quis fuit hic opifex, ubi lana hyacinthina currit?
+327	Quis potuit rigidas torquere ad licia gemmas?
+328	Haec venerando magis poterunt quam fando referri.
+329	Quid secreta petis, nec in abdita luminis intras?
+330	Est, homo, quod stupeas, ubi nectit gratia telas.
+331	Historiae nobis oritur hic longior ordo;
+332	Sed breviore via data per compendia curram.
+333	Maximus imperii moderans quasi rector habenas,
+334	Praecipit Itachium tum armorum iure tueri;
+335	Ne quis eum peteret damnandum lege forensi,
+336	Accusatorem veterati Prisciliani;
+337	Mittit ad Hispanos armata sorte tribunos,
+338	Reliquias heresis qui quaerant, et bona tollant,
+339	Inventosque pares capitali crimine damnent;
+340	Sic tamen, ut cunctos occasio saeva feriret.
+341	Pluribus ergo malis bonitas impulsa beati,
+342	Leucadio pariter pro praeside prompta precatrix,
+343	Occurrit Treviros, aliis quoque mota querelis.
+344	Pontifices adeunt praedicti principis aures,
+345	Ne Martinus eat, synodi nisi pace recepta.
+346	Sed sacer asseruit Christi se in pace manere,
+347	Qua prius abstinuit sanctus sic coetibus illis.
+348	Pontifices iterum occurrunt ad Caesaris aulam,
+349	Cogat ut innocuum se participare nocivis.
+350	Provocat alloquio quem molliter induperator,
+351	Ut sociaretur reliquis communio iusti;
+352	His Theonistum etenim solum descisse querelis,
+353	Cui non complacuit communio noxia fratrum.
+354	Hinc quia non valuit flecti vehementia sancti,
+355	Abripit ex oculis se principis alta potestas,
+356	Mox percussores, gladio minitante, relaxat,
+357	Qui semel offensos, iaculo figente, trucident.
+358	Comperit ut sanctus reserandae fraudis amictum,
+359	Pollicitus regis se participare ministris,
+360	Et pietate calens, deponit amore rigorem,
+361	Mens rea cuius abest, par fit communio culpae.
+362	Hinc se proripiens propere Martinus abegit,
+363	Aestuat interea gradiens, gravis, anxius, augens,
+364	Cur vel ad horale spatium consensit iniquis.
+365	Inde iter emensum per vasta silentia ducens,
+366	Progressis sociis ibi se Andethanna propinquat.
+367	Ecce viro insigni sacer obvius angelus astat,
+368	Praesenti alloquio confessus publice vultus,
+369	Atque revelata facie sic comminus infit:
+370	Quam merito, Martine, loco compungeris isto,
+371	Nec properas exire aliter, nisi iussa facessis:
+372	Inter utrumque nefas mercatus acerba doloris
+373	Nunc age constanter repara virtutis honorem,
+374	Et tibi te revoca trepidum, ne noxia frangant;
+375	Gloria ne pereat, neu prospera lubrica perdant,
+376	Utere more tuo, te deinde rediisse, magister,
+377	Fortis athletae animos casus non obruit unus,
+378	Acrius insequitur hostem manus icta dolore;
+379	Plagaque fixa solet mentes armare viriles;
+380	Atque pudore recens crescit diro ulcere virtus,
+381	Ac datur armigero victoria vulnere crebro.
+382	Fraterno alloquio sic angelus explicat ore,
+383	Et vice germani monitis animavit amantem,
+384	Tanta est cura Dei, Martinum avellere lapsu.
+385	Ulterius synodo nec se permiscuit insons,
+386	Virtutisque suae damnis nova lucra paravit.
+387	Res probat ipsa tamen, sacro venerabilis actu.
+388	Namque ad pseudoforum cellae dum accederet aeger,
+389	Quem male vexabat nimium fera daemonis ira,
+390	Ingenioque gravi torquebat iniquior umbra,
+391	Ante monasterii qua limina tangeret almi,
+392	Martini faciem refugit ferus hospitis hostis,
+393	Et benedicta viri terror fuit ora videri,
+394	Non sufferre valens res obscurissima lumen,
+395	Nec vaga constantem, fugit infida corde fidelem,
+396	Saeva bonum, furiosa pium, truculenta benignum,
+397	Sic quoque nigranti retinetur ianua lucis;
+398	Haec medicina sacri satis unica, cuius opimum
+399	Hospitium vidisse, fuit meruisse salutem;
+400	Sanctus in aede latet, foris exit origo medelae;
+401	Et cura ante datur medici quam forma videtur.
+402	Nec satis est mirum dederit quid corpore praesens,
+403	Nomine sub cuius sparguntur dona per orbem.
+404	Navita cum quidam Tyrrhenum curreret aequor,
+405	Fert iter ad Romam quod velificante volatu,
+406	Turbinis impatiens oritur violentia venti,
+407	Exsiliunt fluctus, feriunt cava vela rudentes:
+408	Nutat pinus iners, rapiuntur signa ceruchis,
+409	Levis et antennae coeuntia cornua frendent;
+410	Artis inops stupidus resilit de puppe magister,
+411	Stant undae, armatura cadit, fragor aequoris urget,
+412	Prora bibit, dum nauta vomit; perit ars, iacet usus,
+413	Spes fugit, ira premit, rapitur lux, morsque minatur;
+414	Casibus in dubiis certi vergente salute,
+415	Dum trepidant omnes, Aegyptius haec ait unus,
+416	Qui nec dum Christi charismata senserat exsors:
+417	Martini Deus, eripe nos; mox dira procella
+418	Corruit, et pelagi tumor altus ad ima resedit:
+419	Sternitur unda rati, liquidi stetit area campi:
+420	Atque immota loci iacuerunt murmura ponti;
+421	Gurgitis optati trabe curritur aequor amicum,
+422	Littoris ora legunt flabris data vota secundis;
+423	Atque petens portum, vada, complet nauta celeuma,
+424	Sic bene pro meritis famulo dat Christus honores,
+425	Cuius eunte fide, terras, mare, sidera supplet.
+426	Pangere gesta libet reliquo veneranda relatu.
+427	Indolis a patribus generosae Lycontius olim,
+428	Clarus honore, fide locuples, ab origine currens,
+429	Cumque domum propriam lues exitialis adisset,
+430	Cunctaque tabifluus penetrasset acumine morbus,
+431	Quo miserabilium famulorum, sive clientum
+432	Una strages erat, divisa per ulcera languens,
+433	Dicere quo posses prostrata cadavera telis:
+434	Res extrema etenim nil nobilitatis honorat:
+435	Praesidii spes sola manet, Martinus in orbe.
+436	Mittitur ad sanctum veneranter epistola cursu,
+437	Auxilium rogitans, hoc corde, hoc flagitat ore,
+438	Ni cito subveniat, rapit omnia pestis acerba,
+439	Per spatium ferale trahens in tartara cunctos,
+440	Et grassata diu, quid agant contagia perdunt;
+441	Qui potes affer opem pendenti in morte catervae,
+442	Desperata salus solatia fida requirit.
+443	Quae prius ut sensit divino illata flagello,
+444	Sed nec posse timet facili exorare precatu;
+445	Attamen excipiens votum miserantis amici,
+446	Septem nempe dies, totidem sub sidere noctes,
+447	Pervigil incubuit, ieiunia nulla relaxans,
+448	Continuata trahens per tempora multa precatus,
+449	Nec prius absistit, nisi supplicis illa Lyconti
+450	Vota recepta daret, domuique medela rediret,
+451	Et rediviva salus fugitivum expelleret ulcus.
+452	Qui tamen ut didicit sancti obtinuisse laborem,
+453	Advolat, et grates devoto corde rependit,
+454	Exceptaque domo sua gaudia munere pensat,
+455	Pro merito fidei donum, vice centurionis,
+456	Israeli Dominus quem praetulit ore potenti,
+457	Et prius hausit opem genitae quam intraret in aedem,
+458	Denique sancto offert argenti pondera magna,
+459	Ter tricena decem super addita merce patroni;
+460	Addit et has voces, recreato pectore supplex:
+461	Quid tibi, celse pater, vitae pro munere solvam?
+462	Cum pretio non possit emi haec lux, neque vendi.
+463	Unius aut animae mercari vita valebit?
+464	Cum vero illa meae domui lues una noceret,
+465	Nec superesset opis reliquum quod redderet ullum,
+466	Praesidio ecce tuo mihi nempe tot agmina vivunt,
+467	Sexus et aetatis numerosa caterva meorum;
+468	Cum stupeam solidae revocata cadavera vitae,
+469	Et quibus obsequerer morientibus, ecce ministrant.
+470	Nam statim ut tua vox penetralis ad astra volavit,
+471	Et visa est meritis curvare cacumina coeli,
+472	Quo vicina tibi fierent oracula Christi,
+473	Expositaeque preces ante ora fuere Tonantis,
+474	Ac recitata fuit pia vox dominantis in aurem,
+475	Mox bonitas indulsit, ope praesente, medelam,
+476	Corpora deseruit membratim tabida clades,
+477	Qui potuere mori, subitae rediere saluti,
+478	Et viguerunt spe, pede, viscere, lumine, voce,
+479	Ac languor moritur, viventi in carne sepultus,
+480	Unde pater modicum pro vivis sume tributum,
+481	Fenore vel minimo tolerans, dum debita solvo:
+482	Sed neque suscepit, neque reppulit ille quod offert;
+483	Ante monasterii sed quam bene limen adiret,
+484	Captivis tribui redimendis pondera iussit.
+485	Sic uno ex casu fert dona gemella beatus,
+486	His libertatem, dedit illis unde salutem,
+487	Ut modo captivis duris laxantia poenis,
+488	Ac concordi animo cecinerunt gaudia plausu.
+489	Hoc idem est mirum niteant si verba relatu.
+490	Occurrit cellae cum quidam e fratribus algens,
+491	Carbone iniecto ardebat fornacula sancti.
+492	Considet ergo celer, rapiens quasi lucra vaporis,
+493	Inguine nudato, pede iacto, poplite panso.
+494	Vir sacer inclusus de cella protinus inquit:
+495	Quis foris incestat nudus habitacula nostra,
+496	Corpore detecto, puro genu, et inguine nudo?
+497	Quid fuit hoc, docti vos dicite, quaeso, sophistae:
+498	Martini ante oculos paries quasi lintea luci,
+499	Aut quasi filo agiles contexit aranea telas,
+500	Retia vel nexis per rara foramina filis?
+501	Unde hic tam tenuis structura patescit hiulca?
+502	An se saxa levant, aut reddunt scissa fenestram?
+503	Seu duri lapides lento se glutine solvunt,
+504	An casa materiae vitreo se margine pandit?
+505	An speculare dedit, quo sanctus lumine transit?
+506	An levior paries revoluto cessit in arcu?
+507	Et stetit incolumis rapido suspensus in ictu?
+508	Nobilis aut acies oculorum et marmora transit,
+509	Clarior ac visus per cuncta obstacula pergit?
+510	Penniger an clausi volitavit ad ora minister,
+511	Ac per opertum aperit, et in invia nuntius intrat?
+512	An quia lumen erat, totum foris, intus habebat?
+513	Carne sedente, loco velox an spiritus ibat?
+514	Pandite, doctiloqui, comprehendite clausa diserti,
+515	Qui numeris, atomis, ratione potestis, et ore.
+516	Hic fugit ars oculos, nisi Christum, nulla videtis.
+517	Quanta Dei virtus, Martini est gratia quanta,
+518	Hac ope mirificus homo complet, quod homo nescit,
+519	Explicat hac, fidei merito, quod et obstet origo.
+520	Quod superest etiam, memoretur honore patroni,
+521	Consummanda suo properat quia pagina textu
+522	Forte sacer residens per dura sedilia ligno,
+523	Prospicit hinc claras pendenti rupe gemellas,
+524	Tegmine pullatas, tristi terrore severas,
+525	Fraude laborantes, iaculantes spicula fellis,
+526	Nequitiae artifices, rebus gravia arma sinistris,
+527	Voce venenata verba haec anguina rotabant:
+528	Quid valet ira tumens, eia te, Brictio, monstres
+529	Hoc iterum repetunt, donec male Brictio motus
+530	Irruptis foribus, sancto et convicia vergit;
+531	Iurgia multa movens, turbata mente, satelles,
+532	Se meriti melioris ovans quam sanctus haberet.
+533	Sic gestu rabidus, neque se agnoscebat amarus
+534	Vitae gesta suae temerarius arbiter inflans,
+535	Intolerabilium per inania bombica iactans,
+536	Vento motus iners simulans foliatilis umbrae,
+537	Excussa cervice rigens, levitate rebellis,
+538	Exagitans animum, pede iacto, pectore tenso,
+539	Irrationalis, tumido gliscente cothurno,
+540	Nec se mente capax, sensu spatiante vacillans;
+541	Inque sacerdotem truculenter acerba redundans.
+542	Sed quid in abiectum Martinum haec turbida volvit?
+543	Quid humili, placido tam dira, superba minatur,
+544	Cur animae nimium dulci tot amara ministrat?
+545	Non decet haec audire pium, neque ferre benignum.
+546	Errant hi graviter qui melli absynthia miscent.
+547	Ille tamen, pietate calens, nihil intulit hosti,
+548	Excipit iratum placatus amanter amarum,
+549	Oblectans rapidum, et per mollia famina mulcens,
+550	Et nescit non esse pater sine felle vel hosti:
+551	Qui tamen, exorante viro, larvisque fugatis,
+552	Dum redit ad mentem furiosus Brictio pridem:
+553	Pontifici occurrit voto, prece, corpore supplex.
+554	Sed bonitate pii celer indulgentia flexit.
+555	Non apud hunc opus esse diu lacrymando rogari:
+556	Aut prece multiplici veniam sperare nocenti,
+557	Qui magis expetiit culpas donare reatus,
+558	Credidit et damnum, quidquid non praestitit ultro;
+559	Haec sua lucra putans dimittere debita noxae,
+560	Obvius occurrens quaerenti munera pacis,
+561	Irasci nulli cupiens, ignoscere cunctis,
+562	Foedera sola ligans celer, et delicta relaxans;
+563	Effugiens ne quando sibi daret ultio damnum;
+564	Rem pietatis agens; satis est clementia vindex
+565	Quae pia dona metens, fieri non indiget ultrix,
+566	Omnibus aucta bonis, cui dos et gloria pax est.
+567	Vir tamen ipse sacer, pietatis ab agmine miles,
+568	Foedera semper amans, et pacis in arma triumphans.
+569	Supplicis ad vocem miserantia viscera laxat,
+570	Inque sinu veniae trepidum mulcendo reduxit,
+571	Atque reum solita patria pietate, recepit.
+572	Haec tua, dulcis, erant holocausta, sacraria, templa,
+573	Haec tibi divitiae, thesauri, regna, talenta,
+574	Flos, odor, esca, sapor, mera, cinnama, balsama, thura;
+575	Haec sacer omnis erat, haec tota, haec unica cura.
+576	Christum corde pio, Christum meditarier actu,
+577	Reddere nolle vicem, misereri et parcere culpae,
+578	Criminis indultor, veniae memor, ara reorum.
+579	Spes miserabilium, fuga larvarum, arma sequentum,
+580	Praeda catervarum, errantum via, cura medentum,
+581	Omnibus una salus, amor omnibus, unus amator,
+582	Quis tibi digna loqui valeat, quem mundus honorat?
+583	Quid, pie vir, satis est, cui laudis debitor orbis?
+584	Quaeque referre volens, neque totus id explicat axis.
+585	Iugiter amplexu Christum corde, ore, retentans,
+586	Nec sine te patiens dominum discedere quoquam,
+587	Tecum semper habens vinctum pietate Tonantem;
+588	Astrictus precibus neque se solvebat amator,
+589	Cuius amica fides tantum tibi contulit arcis,
+590	Ut solem radiis et lunam cursibus aeques,
+591	Quis splendore nitens, pulcher, quasi lucifer axis,
+592	Ab fulgore Dei vir fulgidus ipse coruscas,
+593	Tegmine vir niveus, miro diademate fulvus:
+594	Supplicis ergo memor, famuli exauditor opime,
+595	Fortunati inopis, trepidi sibi sorte reatus,
+596	Morbida cui rabie circum sua crimina latrant,
+597	Et fera delicti penetraliter ulcera mordent;
+598	Intercede, precor, veniam, vir adepte coronam.
+599	Eripe, pastor, ovem, ne clauda, vel extera restet;
+600	Porrige, celse, manum, rege gressum, dirige sensum,
+601	Excessusque graves leviori examine penses,
+602	Ac potius pietas dives miserando precetur.
+603	Mitis et exsortes placident fomenta medelae;
+604	Inter et ipse Deum, atque reum mediator adesto,
+605	Defixis genibus, tensis ad sidera palmis,
+606	Vocibus inclusis, animis penetrantibus auras,
+607	Obtineas meritis; iudex cum venerit orbis,
+608	Tu quoque iussus eris dextro residere sedili,
+609	Arbiter in populos, tribuum pavor ante tribunal:
+610	Qualiter effugiam, flamma stridente, caminum;
+611	Tunc precor, ut fragilem sacro velamine celes,
+612	Et tua me trepidum defendat ab igne lacerna.
+613	Nam scio posse reum quemvis tibi cedere Christum,
+614	Quem sociat proprio, mansura in saecula, regno;
+615	Sis precor in Domino famuli memor, alme per ipsum,
+616	Cuius erit tibimet lumen sine fine videndum.
+617	Da veniam, dulcis, pie, blande, benigne patrone,
+618	Condere dum volui, quia laesi carmine flores.
+619	Sed tua laus nullo breviabitur ampla relatu,
+620	Quam Deus in terris pariterque tetendit et astris.
+621	Pone, libelle, modum, tepido verecunde relatu,
+622	Multiplices faciens diffuso stamine rugas,
+623	Nec bene fila ligans, nodo subit aspera tela,
+624	Hispida, cameli rigido quasi vellere texta,
+625	Serica cum decuit Martini pallia duci,
+626	Aut praetexta micans, auro sub tortile, necti,
+627	Vel toga permixtis hyacinthina curreret albis,
+628	Pingere seu variam rosa, lilia, gemma coronam.
+629	Marcida lingua tacet, veniam tibi posce, libelle:
+630	Contentus tantum, Turonum pete moenia supplex:
+631	Qua Martinus habet veneranda sepulcra sacerdos;
+632	Cuius honor tumuli faciat sua rura tueri;
+633	Qui pietatis opem tribuat, nam largus ubique.
+634	Scit nil esse meum, sua sed sibi dona recurrunt:
+635	Sic tamen urgebis, ut adhuc temerarius intres.
+636	Inde Parisiacam placide properabis ad arcem:
+637	Quam modo Germanus regit, et Dionysius olim,
+638	Si pede progrederis, venerato sepulcra Remedi,
+639	Atque pii fratris complectere templa Medardi.
+640	Si tibi barbaricos conceditur ire per amnes,
+641	Ut placide Rhenum transcendere possis et Histrum,
+642	Pergis ad Augustam, quam Vindo Lycusque fluentant.
+643	Illic ossa sacrae venerabere martyris Afrae.
+644	Si vacat ire viam, neque te Baioarius obstat,
+645	Qua vicina sedent Breonum loca, perge per Alpem,
+646	Ingrediens rapido qua gurgite volvitur Oenus.
+647	Inde Valentini benedicti templa require;
+648	Norica rura petens, ubi Byrrus vertitur undis;
+649	Per Drauum itur iter, qua se castella supinant.
+650	Hic montana sedens in colle superbit Aguntus,
+651	Hinc pete rapte vias, ubi Iulia tenditur alpes,
+652	Altius assurgens, et mons in nubila pergit.
+653	Inde Foro Iuli de nomine principis exi,
+654	Per rupes, Osope, tuas, qua labitur undis,
+655	Et super instat aquis Reunia Tiliamenti,
+656	Hinc Venetum saltus, campestria perge per arva,
+657	Sub montana quidem castella per ardua tendens.
+658	Aut Aquileiensem si fortasse accesseris urbem,
+659	Cantianos Domini nimium venereris amicos,
+660	Ac Fortunati benedictam martyris urnam:
+661	Pontificemque pium Paulum cupienter adora
+662	Qui me primaevis converti optabat ab annis
+663	Si petis illud iter, qua se Concordia cingit,
+664	Augustinus adest pretiosus Basiliusque.
+665	Qua mea Tarvisus residet, si molliter intras,
+666	Illustrem socium Felicem, quaeso, require,
+667	Cui mecum lumen Martinus reddidit olim
+668	Per Cenetam gradiens, et amicos Duplavenenses,
+669	Qua natale solum est mihi, sanguine, sede parentum,
+670	Prolis origo patrum, frater, soror, ordo nepotum,
+671	Quos colo corde, fide, breviter, peto, redde salutem,
+672	Si Patavina tibi pateat via, pergis ad urbem;
+673	Hic sacra Iustinae, rogo, lambe sepulcra beatae,
+674	Cuius habet paries Martini gesta figuris:
+675	Quove salutis opus celso depende Ioanni,
+676	Atque suis genitis sociis per carmina nostris.
+677	Hic tibi Brinta fluens, iter est Retenone secundo;
+678	Ingrediens Athesim Padus excipit inde phaselo,
+679	Mobilis unde tibi rapitur ratis amne citato.
+680	Inde Ravennatum placitam pete dulcius urbem,
+681	Pulpita sanctorum per religiosa recurrens,
+682	Martyris egregii tumulum Vitalis adora,
+683	Mitis et Urcisini; Pauli sub sorte, beati;
+684	Rursus Apollinaris pretiosi limina lambe,
+685	Fusus humi supplex, et templa per omnia curre.
+686	Et pete Martini loculum, quo iure sacelli,
+687	Iam desperatum lumen mihi reddidit auctor,
+688	Munera qui tribuit; saltem, rogo, verba repende.
+689	Est ubi basilicae culmen Pauli atque Ioannis,
+690	Hic paries retinet sancti sub imagine formam.
+691	Amplectenda ipso dulci pictura colore.
+692	Sub pedibus iusti paries habet arte fenestram,
+693	Lychnus adest, cuius vitrea natat ignis in urna.
+694	Huc ego dum propero, valido torquente dolore,
+695	Diffugiente, gemens, oculorum luce fenestris;
+696	Quo procul ut tetigi benedicto lumen olivo,
+697	Igneus ille vapor marcenti fronte recessit,
+698	Et praesens medicos blando fugat unguine morbos,
+699	Non oblita mihi mea lumina, munera sancti,
+700	Nam redit ante oculos oculorum cura fidelis,
+701	Et memor illud ero, dum luce et corpore consto.
+702	Promptius affectu, precor inde require sodales;
+703	Si sociis loqueris, veniam pietate mereris,
+704	Porrigo materiam quibus hanc ego, ut ore rotundo,
+705	Martini gestis florentia carmina pangant;
+706	Et claro ingenio texant spargenda per ortum.
+707	Vir radians meritis licet ille nec indiget istis,
+708	Gratia cuius ovans ac fama iter occupat orbis,
+709	Arva capax, pelagus intrans, super astra coruscans,
+710	Distribuens miras populis pro stipe medelas,
+711	Qui Domino famulando suo capit omnia dono,
+712	Et quo Christus habet nomen, Martinus honorem.
+
+
