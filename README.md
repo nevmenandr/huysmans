@@ -23,20 +23,19 @@
 | [Antiphonarium Monasterii Benchorensis](https://www.documentacatholicaomnia.eu/_index.html) | [Plinius](https://www.thelatinlibrary.com/pliny1.html) |
 | Jonas de Bobbio. Vita sancti Columbani abbatis discipulorumque eius  | [Statius](https://www.thelatinlibrary.com/statius.html) |
 | [Vita sancti Cuthberti](https://oll.libertyfund.org/title/giles-the-complete-works-of-venerable-bede-vol-4-historical-tracts-english-and-latin) | [Martialis](https://www.thelatinlibrary.com/martial.html) |
-| Defensorius. Vita sanctae Rusticulae  | Bilbilis |
-| Baudonivia. Vita sanctae Radegundis | [Terentius](https://www.thelatinlibrary.com/ter.html) |
-| [Aldhelmus Malmesberiensis](https://www.dmgh.de/mgh_auct_ant_15/index.htm#page/(VII)/mode/1up) | [Plautus](https://www.thelatinlibrary.com/plautus.html) |
+| Defensorius. Vita sanctae Rusticulae  | [Terentius](https://www.thelatinlibrary.com/ter.html) |
+| Baudonivia. Vita sanctae Radegundis | [Plautus](https://www.thelatinlibrary.com/plautus.html) |
+| [Aldhelmus Malmesberiensis](https://www.dmgh.de/mgh_auct_ant_15/index.htm#page/(VII)/mode/1up) | [Minucius Felix](https://www.documentacatholicaomnia.eu/30_10_0200-0300-_Minucius_Felix.html) |
 | Tatuinus | [Marcus Cornelius Fronto](https://epistol.glossa.dk/fronto.html) |
 | Eusebius | [Aulus Gellius](https://www.thelatinlibrary.com/gellius.html) |
-| [Bonifatius](https://clasp.ell.ox.ac.uk/db-latest/poem/BONIFACE.Aenig) | [Minucius Felix](https://www.documentacatholicaomnia.eu/30_10_0200-0300-_Minucius_Felix.html) |
-| sanctus Gallus | Cyprianus |
-| [Freculphus Lexoviensis Episcopus](https://books.google.ru/books?id=zFavdpSFvPIC&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false) | [Arnobius](https://www.thelatinlibrary.com/arnobius.html) |
-| [Regino Prumiensis abbas](https://www.documentacatholicaomnia.eu/30_10_0882-0915-_Regino_Prumiensis_Abbas.html) | [Lactantius](https://www.thelatinlibrary.com/lactantius.html) |
-| Abbo Sancti Germani a Pratis [De Bello Parisiaco](https://la.m.wikisource.org/wiki/De_bello_Parisiaco_(Abbo_Sangermanensis)) | Ammianus Marcellinus |
-| Walafrid Strabo [Hortulus](https://www.hs-augsburg.de/~harsch/Chronologia/Lspost09/Walahfrid/wal_ho01.html)  | [Aurelius Victor](https://www.thelatinlibrary.com/victor.html) |
-| Ermoldus Nigellus. [In honorem Hludovici imperatoris](https://remacle.org/bloodwolf/historiens/ermold/louispieux.htm) | [Symmachus](https://la.wikisource.org/wiki/Libri_Decem_Epistolarum) |
-| [De viribus herbarum](https://www.biodiversitylibrary.org/item/120950#page/5/mode/1up)  | [Macrobius](https://la.wikisource.org/wiki/Commentarii_in_Somnium_Scipionis) |
-|   | [Claudius Claudianus](https://www.thelatinlibrary.com/claudian.html) |
+| [Bonifatius](https://clasp.ell.ox.ac.uk/db-latest/poem/BONIFACE.Aenig) | Cyprianus |
+| sanctus Gallus | [Arnobius](https://www.thelatinlibrary.com/arnobius.html) |
+| [Freculphus Lexoviensis Episcopus](https://books.google.ru/books?id=zFavdpSFvPIC&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false) | [Lactantius](https://www.thelatinlibrary.com/lactantius.html) |
+| [Regino Prumiensis abbas](https://www.documentacatholicaomnia.eu/30_10_0882-0915-_Regino_Prumiensis_Abbas.html) | Ammianus Marcellinus |
+| Abbo Sancti Germani a Pratis [De Bello Parisiaco](https://la.m.wikisource.org/wiki/De_bello_Parisiaco_(Abbo_Sangermanensis)) | [Aurelius Victor](https://www.thelatinlibrary.com/victor.html) |
+| Walafrid Strabo [Hortulus](https://www.hs-augsburg.de/~harsch/Chronologia/Lspost09/Walahfrid/wal_ho01.html)  | [Symmachus](https://la.wikisource.org/wiki/Libri_Decem_Epistolarum) |
+| Ermoldus Nigellus. [In honorem Hludovici imperatoris](https://remacle.org/bloodwolf/historiens/ermold/louispieux.htm) | [Macrobius](https://la.wikisource.org/wiki/Commentarii_in_Somnium_Scipionis) |
+| [De viribus herbarum](https://www.biodiversitylibrary.org/item/120950#page/5/mode/1up)  | [Claudius Claudianus](https://www.thelatinlibrary.com/claudian.html) |
 |   | [Rutilius Namatianus](https://www.thelatinlibrary.com/rutilius.html) |
 |   | [Ausonius](https://www.thelatinlibrary.com/ausonius.html) |
 |   | [Alcuinus](https://books.google.ru/books?id=rmsEAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false) |
