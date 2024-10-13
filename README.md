@@ -35,11 +35,11 @@
 | Abbo Sancti Germani a Pratis [De Bello Parisiaco](https://la.m.wikisource.org/wiki/De_bello_Parisiaco_(Abbo_Sangermanensis)) | [Aurelius Victor](https://www.thelatinlibrary.com/victor.html) |
 | Walafrid Strabo [Hortulus](https://www.hs-augsburg.de/~harsch/Chronologia/Lspost09/Walahfrid/wal_ho01.html)  | [Symmachus](https://la.wikisource.org/wiki/Libri_Decem_Epistolarum) |
 | Ermoldus Nigellus. [In honorem Hludovici imperatoris](https://remacle.org/bloodwolf/historiens/ermold/louispieux.htm) | [Macrobius](https://la.wikisource.org/wiki/Commentarii_in_Somnium_Scipionis) |
-| [De viribus herbarum](https://www.biodiversitylibrary.org/item/120950#page/5/mode/1up)  | [Claudius Claudianus](https://www.thelatinlibrary.com/claudian.html) |
-|   | [Rutilius Namatianus](https://www.thelatinlibrary.com/rutilius.html) |
-|   | [Ausonius](https://www.thelatinlibrary.com/ausonius.html) |
-|   | [Alcuinus](https://books.google.ru/books?id=rmsEAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false) |
-|   | [Eginhardus](https://www.thelatinlibrary.com/ein.html) |
+| [De viribus herbarum](https://www.biodiversitylibrary.org/item/120950#page/5/mode/1up)  | Ambrosius |
+| Tertullianus. "De cultu feminarum" | [Alcuinus](https://books.google.ru/books?id=rmsEAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false) |
+| [Claudius Claudianus](https://www.thelatinlibrary.com/claudian.html) | [Eginhardus](https://www.thelatinlibrary.com/ein.html) |
+| [Rutilius Namatianus](https://www.thelatinlibrary.com/rutilius.html) |  |
+| [Ausonius](https://www.thelatinlibrary.com/ausonius.html) |  |
 
 ## ?
 
