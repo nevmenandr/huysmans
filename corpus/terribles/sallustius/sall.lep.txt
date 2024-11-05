@@ -1,13 +1,3 @@
-Sallust: Speech of Lepidus
-		 
-
-		 
-		 
-	 
-	
- 
-
- ORATIO LEPIDI CONSVLIS AD POPVLVM ROMANVM
  
 
  
@@ -28,5 +18,3 @@ Sallust: Speech of Lepidus
  26 Mihi quamquam per hoc summum imperium satis quaesitum erat nomini maiorum, dignitati atque etiam praesidio, tamen non fuit consilium privatas opes facere, potiorque visa est periculosa libertas quieto servitio. 27 Quae si probatis, adeste, Quirites, et bene iuvantibus divis M. Aemilium consulem ducem et auctorem sequimini ad recipiundam libertatem! 
  
  
-
-  Sallust The Latin Library The Classics Page

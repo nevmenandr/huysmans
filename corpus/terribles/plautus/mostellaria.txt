@@ -1,11 +1,3 @@
-Plautus: Mostellaria
-		 
-		 
-		 
-	 
-	
- 
- T. MACCI PLAVTI MOSTELLARIA 
 
  
 
@@ -34,17 +26,17 @@ Plautus: Mostellaria
  
 
  
- M anu misit emptos suos amores Philolaches 
- O mnemque absente rem suo absumit patre. 
- S enem ut revenit ludificatur Tranio: 
- T errifica monstra dicit fieri in aedibus 
- E t inde pridem emigratum. intervenit 
- L ucripeta faenus faenerator postulans. 
- L udosque rursum fit senex; nam mutuom 
- A cceptum dicit pignus emptis aedibus. 
- R equirit quae sint: ait vicini proxumi. 
- I nspectat illas. post se derisum dolet, 
- A b sui sodale gnati exoratur tamen.
+ Manu misit emptos suos amores Philolaches 
+ Omnemque absente rem suo absumit patre. 
+ Senem ut revenit ludificatur Tranio: 
+ Terrifica monstra dicit fieri in aedibus 
+ Et inde pridem emigratum. intervenit 
+ Lucripeta faenus faenerator postulans. 
+ Ludosque rursum fit senex; nam mutuom 
+ Acceptum dicit pignus emptis aedibus. 
+ Requirit quae sint: ait vicini proxumi. 
+ Inspectat illas. post se derisum dolet, 
+ Ab sui sodale gnati exoratur tamen.
  
 
  
@@ -1500,7 +1492,3 @@ spectatores, fabula haec est acta, vos plausum date.
  
 
  
-	 
-		 Plautus 
-		 The Latin Library 
-		 The Classics Page

@@ -1,13 +1,3 @@
-Quintilian: Institutio Oratoria II
-		 
-
-		 
-		 
-	 
-
- 
-
- M. FABII QVINTILIANI INSTITVTIO ORATORIA LIBER SECVNDVS
  
 
  
@@ -351,7 +341,3 @@ Ab illis haec dicuntur. Si consonare sibi in faciendis ac non faciendis uirtutis
 
  
 [24] Quaesitum a paucissimis et de instrumento est. Instrumentum uoco sine quo formari materia in id quod uelimus effici opus non possit. Verum hoc ego non artem credo egere, sed artificem. Neque enim scientia desiderat instrumentum, quae potest esse consummata etiam si nihil faciat, sed ille opifex, ut caelator caelum et pictor penicilla. Itaque haec in eum locum quo de oratore dicturi sumus differamus. 
-	 
-		 Quintilian 
-		 The Latin Library 
-		 The Classics Page

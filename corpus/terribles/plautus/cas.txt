@@ -1,11 +1,3 @@
-Plautus: Casina
-		 
-		 
-		 
-	 
-	
- 
- T. MACCI PLAVTI CASINA
  
  
 
@@ -1418,7 +1410,3 @@ Ei pro scorto supponetur ircus unctus nautea.
  
 
  
-	 
-		 Plautus 
-		 The Latin Library 
-		 The Classics Page

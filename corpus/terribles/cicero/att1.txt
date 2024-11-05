@@ -1,13 +1,3 @@
-Cicero: ad Atticum I
-		 
-
-		 
-		 
-	 
-	
- 
-
- M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER PRIMUS
  
 
  
@@ -19,7 +9,7 @@ Cicero: ad Atticum I
  
 
  
- I.1 (10) Cicero Attico Sal. [Rome, shortly before 17 July 65 B.C.] 
+ I.1 (10) Cicero Attico Sal. 
  
 
  
@@ -37,7 +27,7 @@ Hermathena tua valde me delectat et posita ita belle est, ut totum gymnasium eiu
  
 
  
- I.II (11) Cicero Attico Sal. [Rome, shortly after I.I] 
+ I.II (11) Cicero Attico Sal. 
  
 
  
@@ -51,7 +41,7 @@ Tuo adventu nobis opus est maturo; nam prorsus summa hominum est opinio tuos fam
  
 
  
- I.III (8) Cicero Attico Sal. [Rome, end of 67] 
+ I.III (8) Cicero Attico Sal. 
  
 
  
@@ -65,7 +55,7 @@ Quod ad me saepe scripsisti de nostro amico placando, feci et expertus sum omnia
  
 
  
- I.IV (9) Cicero Attico Sal. [Rome, beginning of 66] 
+ I.IV (9) Cicero Attico Sal. 
  
 
  
@@ -79,7 +69,7 @@ Quod ad me de Hermathena scribis, per mihi gratum est. Est ornamentum Academiae 
  
 
  
- I.V (1) Cicero Attico Sal. [Rome, shortly before November 27, 68] 
+ I.V (1) Cicero Attico Sal. 
  
 
  
@@ -101,7 +91,7 @@ Quod scribis, etiamsi cuius animus in te esset offensior, a me recolligi oporter
  
 
  
- I.VI (2) Cicero Attico Sal. [Rome, shortly after November 27, 68] 
+ I.VI (2) Cicero Attico Sal. 
  
 
  
@@ -115,7 +105,7 @@ Non committam posthac, ut me accusare de epistularum neglegentia possis; tu modo
  
 
  
- I.VII (3) Cicero Attico Sal. [Rome, before February 13, 67] 
+ I.VII (3) Cicero Attico Sal. 
  
 
  
@@ -125,7 +115,7 @@ Apud matrem recte est, eaque nobis curae est. L. Cincio HS [20,400] constitui me
  
 
  
- I.VIII (4) Cicero Attico Sal. [Rome, after February 13, 67] 
+ I.VIII (4) Cicero Attico Sal.  
  
 
  
@@ -139,7 +129,7 @@ L. Cincio HS [20,400] pro signis Megaricis, ut tu ad me scripseras, curavi. Herm
  
 
  
- I.IX (5) Cicero Attico Sal. [Rome, March or April 67] 
+ I.IX (5) Cicero Attico Sal. 
  
 
  
@@ -153,7 +143,7 @@ L. Cincio HS [20,400] pro signis Megaricis, ut tu ad me scripseras, curavi. Herm
  
 
  
- I.X (6) Cicero Attico Sal. [Rome, before July 67] 
+ I.X (6) Cicero Attico Sal. 
  
 
  
@@ -175,7 +165,7 @@ De fratre confido ita esse, ut semper volui et elaboravi. Multa signa sunt eius 
  
 
  
- I.XI (7) Cicero Attico Sal. [Rome, July or August 67] 
+ I.XI (7) Cicero Attico Sal. 
  
 
  
@@ -193,7 +183,7 @@ De fratre confido ita esse, ut semper volui et elaboravi. Multa signa sunt eius 
  
 
  
- I.XII (12) Cicero Attico Sal. [Rome, January 1, 61] 
+ I.XII (12) Cicero Attico Sal. 
  
 
  
@@ -211,7 +201,7 @@ Pompeium nobis amicissimum constat esse. Divortium Muciae vehementer probatur. P
  
 
  
- I.XIII (13) Cicero Attico Sal. [Rome, January 25, 61] 
+ I.XIII (13) Cicero Attico Sal. 
  
 
  
@@ -233,7 +223,7 @@ Pompeium nobis amicissimum constat esse. Divortium Muciae vehementer probatur. P
  
 
  
- I.XIV (14) Cicero Attico Sal. [Rome, February 13, 61] 
+ I.XIV (14) Cicero Attico Sal. 
  
 
  
@@ -255,7 +245,7 @@ Nunc ut ad privata redeam, Teukris promissa patravit. Tu mandata effice, quae re
  
 
  
- I.XV (15) Cicero Attico Sal. [Rome, March 15, 61] 
+ I.XV (15) Cicero Attico Sal. 
  
 
  
@@ -267,7 +257,7 @@ Asiam Quinto, suavissimo fratri, obtigisse audisti. Non enim dubito, quin celeri
  
 
  
- I.XVI (16) Cicero Attico Sal. [Rome, June/July, 61] 
+ I.XVI (16) Cicero Attico Sal. 
  
 
  
@@ -299,7 +289,7 @@ Quod ad me scribis te in Asiam statuisse non ire, equidem mallem, ut ires, ac ve
  
 
  
- I.XVII (17) Cicero Attico Sal. [Rome, December 5, 61] 
+ I.XVII (17) Cicero Attico Sal. 
  
 
  
@@ -327,7 +317,7 @@ Lucceium scito consulatum habere in animo statim petere. Duo enim soli dicuntur 
  
 
  
- I.XVIII (18) Cicero Attico Sal. [Rome, January 20, 60] 
+ I.XVIII (18) Cicero Attico Sal. 
  
 
  
@@ -347,7 +337,7 @@ Nunc vides quibus fluctibus iactemur, et, si ex iis, quae scripsimus tanta, etia
  
 
  
- I.XIX (19) Cicero Attico Sal. [Rome, March 15, 60] 
+ I.XIX (19) Cicero Attico Sal.  
  
 
  
@@ -383,7 +373,7 @@ Commentarium consulatus mei Graece compositum misi ad te. In quo si quid erit, q
  
 
  
- I.XX (20) Cicero Attico Sal. [Rome, May 60] 
+ I.XX (20) Cicero Attico Sal. 
  
 
  
@@ -410,7 +400,3 @@ Quod ad me de re publica scribis, disputas tu quidem et amanter et prudenter, et
  Nunc, ut ad rem meam redeam, L. Papirius Paetus, vir bonus amatorque noster, mihi libros eos, quos Ser. Claudius reliquit, donavit. Cum mihi per legem Cinciam licere capere Cincius, amicus tuus, diceret, libenter dixi me accepturum, si attulisset. Nunc, si me amas, si te a me amari scis, enitere per amicos, clientes, hospites, libertos denique ac servos tuos, ut scida ne qua depereat; nam et Graecis iis libris, quos suspicor, et Latinis, quos scio illum reliquisse, mihi vehementer opus est. Ego autem cotidie magis, quod mihi de forensi labore temporis datur, in iis studiis conquiesco. Per mihi, per, inquam, gratum feceris, si in hoc tam diligens fueris, quam soles in iis rebus, quas me valde velle arbitraris, ipsiusque Paeti tibi negotia commendo, de quibus tibi ille agit maximas gratias, et, ut iam invisas nos, non solum rogo, sed etiam suadeo.
  
  
-	 
-		 Cicero 
-		 The Latin Library 
-		 The Classics Page

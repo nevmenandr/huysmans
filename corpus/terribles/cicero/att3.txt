@@ -1,13 +1,3 @@
-Cicero: ad Atticum III
-		 
-
-		 
-		 
-	 
-	
- 
-
- M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER TERTIUS
  
 
  
@@ -19,7 +9,7 @@ Cicero: ad Atticum III
  
 
  
- [I] Scr. proficiscens in exsilium in. in Apr. a. 696 (58). CICERO ATTICO SAL. 
+ [I] CICERO ATTICO SAL. 
  
 
  
@@ -29,7 +19,7 @@ Cicero: ad Atticum III
  
 
  
- [II] Scr. in itinere vi Id. Apr. a. 696 (58). CICERO ATTICO SAL. 
+ [II] CICERO ATTICO SAL. 
  
 
  
@@ -39,7 +29,7 @@ Cicero: ad Atticum III
  
 
  
- [III] Scr. Itinere circ. Non. Apr. a. 696 (58). CICERO ATTICO SAL. 
+ [III]  CICERO ATTICO SAL. 
  
 
  
@@ -49,7 +39,7 @@ Cicero: ad Atticum III
  
 
  
- [IV] Scr. in itinere inter Vibonem et Brundisium post ep. 5 Id. Apr. a. 696 (58). CICERO ATTICO SAL. 
+ [IV] CICERO ATTICO SAL. 
  
 
  
@@ -59,7 +49,7 @@ Cicero: ad Atticum III
  
 
  
- [V] Scr. Thuriis iv Id. Apr., ut videtur, a. 696 (58). CICERO ATTICO SAL. 
+ [V] CICERO ATTICO SAL. 
  
 
  
@@ -69,7 +59,7 @@ Cicero: ad Atticum III
  
 
  
- [VI] Scr. in Tarenthmo xiv K. Mai. a. 696 (58). CICERO ATTICO SAL. 
+ [VI] CICERO ATTICO SAL. 
  
 
  
@@ -79,7 +69,7 @@ Cicero: ad Atticum III
  
 
  
- [VII] Scr. Brundisii pr. K. Mai. a. 696 (58). CICERO ATTICO SAL. 
+ [VII] CICERO ATTICO SAL. 
  
 
  
@@ -97,7 +87,7 @@ Cicero: ad Atticum III
  
 
  
- [VIII] Scr. Thessalonicae iv K. Iun. a. 696 (58). CICERO ATTICO SAL. 
+ [VIII] CICERO ATTICO SAL. 
  
 
  
@@ -119,7 +109,7 @@ Cicero: ad Atticum III
  
 
  
- [IX] Scr. Thessalonicae 1d. Iun. a. 696 (58). CICERO ATTICO SAL. 
+ [IX] CICERO ATTICO SAL. 
  
 
  
@@ -137,7 +127,7 @@ Cicero: ad Atticum III
  
 
  
- [X] Scr. Thcssalonicae xko K. Qithit. a. 696 (58). CICERO ATTICO SAL. 
+ [X] CICERO ATTICO SAL. 
  
 
  
@@ -155,7 +145,7 @@ Cicero: ad Atticum III
  
 
  
- [XI] Scr. Thessalonicae iv K. Quint. a. 696 (58). CICERO ATTICO SAL. 
+ [XI] CICERO ATTICO SAL. 
  
 
  
@@ -169,7 +159,7 @@ Cicero: ad Atticum III
  
 
  
- [XII] Scr. Thessalonicae xvi Kal. Sext. a. 696 (58). CICERO ATTICO SAL. 
+ [XII] CICERO ATTICO SAL. 
  
 
  
@@ -187,7 +177,7 @@ Cicero: ad Atticum III
  
 
  
- [XIII] Scr. Thessalonicae Non. Sext. a. 696 (58). . CICERO ATTICO SAL. 
+ [XIII] CICERO ATTICO SAL. 
  
 
  
@@ -201,7 +191,7 @@ Cicero: ad Atticum III
  
 
  
- [XIV] Scr. Thessalonicae x K. Sext. a. 696 (58). CICERO ATTICO SAL. 
+ [XIV] CICERO ATTICO SAL. 
  
 
  
@@ -215,7 +205,7 @@ Cicero: ad Atticum III
  
 
  
- [XV] Scr. Thessalonicae xiv K. Sept. a. 696 (58). CICERO ATTICO SAL. 
+ [XV] CICERO ATTICO SAL. 
  
 
  
@@ -422,7 +412,3 @@ Cicero: ad Atticum III
  ex tuis litteris et ex re ipsa nos funditus perisse video. te oro ut quibus in rebus tui mei indigebunt nostris miseriis ne desis. ego te, ut scribis, cito videbo.
  
  
-	 
-		 Cicero 
-		 The Latin Library 
-		 The Classics Page

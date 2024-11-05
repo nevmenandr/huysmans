@@ -1,11 +1,3 @@
-Plautus: Menaechmi
-		 
-		 
-		 
-	 
-	
- 
- T. MACCI PLAVTI MENAECHMI 
 
  
 
@@ -1714,7 +1706,3 @@ nunc, spectatores, valete et nobis clare plaudite.
  
 
  
-	 
-		 Plautus 
-		 The Latin Library 
-		 The Classics Page
